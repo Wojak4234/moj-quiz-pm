@@ -1,0 +1,738 @@
+1. Do analizy otoczenia przedsiębiorstwa na początkowym etapie formułowania strategii konkurencji najlepiej nadaje się:
+•	[+] a) Analiza PESTEL
+•	[-] b) Analiza SWOT
+•	[-] c) Model 5 sił konkurencyjnych Portera
+•	[-] d) Analiza problemów
+2. Na kulturę organizacyjną formy składają się m.in.:
+•	[-] a) Style relacji pomiędzy pracownikami
+•	[+] b) Wszystkie odpowiedzi są poprawne
+•	[-] c) Wartości, postawy, zasady postępowania obowiązujące w firmie
+•	[-] d) Praktykowane style zarządzania
+3. Zarządzanie zaangażowaniem interesariuszy powinno być prowadzone na etapie:
+•	[-] a) Przygotowania i inicjowania projektu (wg. PRINCE2), Inicjowania i planowania projektu (wg. PMBOK)
+•	[-] b) Realizacji projektu
+•	[-] c) Zamykania projektu
+•	[+] d) Ustawicznie, w całym cyklu życia projektu
+4. W analizie interesariuszy należy wziąć pod uwagę:
+•	[+] a) Wszystkie odpowiedzi są poprawne
+•	[-] b) Cele i oczekiwania interesariuszy
+•	[-] c) Spodziewany poziom aktywnego zaangażowania interesariuszy w projekt
+•	[-] d) Siłę oddziaływania interesariuszy na projekt
+5. Zewnętrzne czynniki środowiskowe prowadzonej działalności z perspektywy firmy prowadzącej projekt to:
+•	[+] a) Uwarunkowania makroekonomiczne
+•	[-] b) Misja, wartości, strategia firmy
+•	[-] c) Posiadane przez firmę zasoby ludzkie (kapitał intelektualny, kompetencje ...)
+•	[-] d) Kultura organizacyjna firmy
+6. Do wewnętrznych czynników środowiskowych prowadzonej działalności z perspektywy firmy prowadzącej projekt należą m.in.:
+•	[-] a) Model doskonałości projektowej IPMA
+•	[-] b) Aktualny stan Techniki, Technologi, Nauki na świecie
+•	[-] c) Konflikty i wojny
+•	[+] d) Zasoby finansowe firmy (kapitał obrotowy, majątek, zdolność kredytowa)
+7. Wyniki analizy interesariuszy przedstawiane są w:
+•	[-] a) Macierz (mapa) interesariuszy
+•	[+] b) Wszystkie odpowiedzi są prawdziwe
+•	[-] c) Macierz oceny zaangażowania
+•	[-] d) Rejestr interesariuszy
+8. Uzasadnienie biznesowe projektu:
+•	[-] a) Jest opracowywane w fazie przygotowania projektu i pozostaje niezmienne przez cały cykl życia projektu
+•	[-] b) Koncentruje się wyłącznie na wyniku finansowym projektu
+•	[+] c) Stanowi podstawową przesłankę decyzji o ustanowieniu projektu i przejściu do kolejnych etapów projektu
+•	[-] d) Odpowiedzialność za jego przygotowanie i poprawność ponosi kierownik projektu
+9. Wpływ interesariuszy na projekt jest największy na etapach:
+•	[-] a) Realizacji projektu
+•	[-] b) Zamykania projektu
+•	[-] c) Jest stały w całym cyklu życia projektu
+•	[+] d) Przygotowywania i inicjowania projektu (wg. PRINCE2), Inicjowania i planowania projektu (wg. PMBoK)
+10. Logiczna sekwencja planowania projektu:
+•	[-] a) Zakres -> Cel -> Produkty -> Działania -> Zasoby
+•	[+] b) Cel -> Produkty -> Działania -> Zakres -> Zasoby
+•	[-] c) Cel -> Zakres -> Produkty -> Działania -> Zasoby
+•	[-] d) Działania -> Cel -> Zasoby -> Produkty -> Zakres
+11. Podniesienie konkurencyjności firmy na rynkach międzynarodowych, to w przypadku projektu modernizującego aktualną linię technologiczną jest przykładem:
+•	[-] a) Celu proceduralnego projektu
+•	[-] b) Produktu głównego
+•	[-] c) Celu głównego projektu
+•	[+] d) Celu ogólnego projektu
+12. Decydenci formułujący cele zgodnie z regułą SMART mają świadomość, że są one określane według następujących kryteriów:
+•	[+] a) Szczegółowe, wymierne, akceptowalne, realne i terminowe
+•	[-] b) Wymierne, terminowe ale nie szczegółowe
+•	[-] c) Szczegółowe, wymierne, realne
+•	[-] d) Wymierne i terminowe
+13. Sformułowanie celu projektu: ,,Do końca roku 2015 zwiększyć udział w rynku marki A w stosunku do roku 2014" nie spełnia następującego warunku zasady SMART:
+•	[-] a) Cel powinien być określony w czasie
+•	[-] b) Cel powinien być konkretny, specyficzny
+•	[+] c) Cel powinien być mierzalny
+•	[-] d) Cel powinien być ambitny, osiągalny
+14. Obiektywnie weryfikowalny cel, to cel:
+•	[-] a) Dla którego zdefiniowano wskaźnik mierzący stopień osiągniecia celu
+•	[+] b) Dla którego zdefiniowano wskaźnik i wartość wskaźnika, której osiągnięcie oznacza zrealizowanie celu oraz źródła danych, na podstawie których wyznaczono
+•	[-] c) Dla którego zdefiniowano wartość wskaźnika, której osiągniecie oznacza zrealizowanie celu
+•	[-] d) Dla którego zdefiniowano, źródła danych na podstawie których wyznaczana jest wartość wskaźnika
+15. Cel ogólny (nadrzędny) projektu odnosi się do:
+•	[-] a) Oddziaływania projektu i osiągany jest w krótkiej perspektywie czasu
+•	[-] b) Oddziaływania projektu i osiągany jest w trakcie okresu realizacji projektu
+•	[-] c) Bezpośredniego produktu projektu i osiągany jest w dłuższej perspektywie czasu
+•	[+] d) Oddziaływania projektu i osiągany jest w dłuższej perspektywie czasu
+16. Sukces projektu:
+•	[-] a) Realizacja projektu w planowanym czasie i budżecie
+•	[-] b) Spełnienie oczekiwań interesariuszy organizacji realizującej projekt
+•	[-] c) Spełnienie oczekiwań wszystkich interesariuszy projektu
+•	[+] d) Spełnienie oczekiwań kluczowych interesariuszy projektu
+17. Cel główny wg metodyki Zarządzanie Cyklem Projektu (PCM) to:
+•	[-] a) Wyroby, usługi lub rezultaty dostarczane przez projekt
+•	[-] b) Korzyść, do której ma się przyczyniać realizacja projektu, wykraczająca poza natychmiastowe efekty dla odbiorców bezpośrednich
+•	[-] c) Czas i koszt realizacji projektu
+•	[+] d) Korzyść bezpośrednia w wyniku realizacji projektu
+18. Formuła realizacji projektu:
+•	[-] a) Definiuje przydziały konkretnych wykonawców do pakietów prac
+•	[-] b) Konkretyzuje odpowiedzialność za wytworzenie lub dostarczanie produktów projektu
+•	[-] c) Określa technologię wytwarzania produktów i konkretnych wykonawców lub dostawców produktu
+•	[+] d) Określa przyjęty w projekcie system dostarczania (wytwarzania lub pozyskiwania) produktów, uzasadniony uwarunkowaniami operacyjnymi dostępny przy założonej technologii w ramach ograniczeń czasu i budżetu
+19. Odpowiedzialność za sukces projektu ponosi:
+•	[+] a) Właściciel biznesowy (sponsor) projektu
+•	[-] b) Zarząd organizacji
+•	[-] c) Komitet sterujący projektem
+•	[-] d) Kierownik projektu
+20. Do grupy celów proceduralnych projektu zalicza się:
+•	[+] a) Cele budżetowe
+•	[-] b) Cele personalne
+•	[-] c) Cele społeczne
+•	[-] d) Cele funkcjonalne
+21. Produkt projektu:
+•	[+] a) Wszystkie odp są poprawne
+•	[-] b) Wyrób lub usługa, którą...
+•	[-] c) Produkt może sam być zbiorem innych produktów
+•	[-] d) Metodyka PRINCE2 wyróżnia produkty techniczne (specjalistyczne) i zarządcze
+22. Która odp NIE JEST prawdziwa w odniesieniu do zakresu projektu?
+•	[+] a) Zakres projektu nie musi obejmować wszystkich produktów cząstkowych powstających przy projekcie
+•	[-] b) Zakres projektu jest ujmowany w tzw. żelaznym trójkącie
+•	[-] c) Zakres projektu to prace, które trzeba wykonywać, aby wytworzyć produkt lub dosta.... O określonych cechach lub funkcjach
+•	[-] d) Zakres projektu jest dekomponowany na pakiety robocze
+23. Techniki i narzędzie, które wspomagają precyzowanie zakresu projektu to:
+•	[-] a) Wszystkie odp są poprawne
+•	[-] b) Deklaracja zakresu projektu
+•	[+] c) Analiza i definiowanie wymagań
+•	[-] d) Analiza interesariuszy
+24. Strukturyzując zakres projektu NIE NALEŻY:
+•	[+] a) Poprzestać na deklaracji zakresu projektu
+•	[-] b) Uwzględnić odpowiedzialność
+•	[-] c) Zdefiniować punktu odniesienia dla działań kontrolnych
+•	[-] d) Zdekomponować główne elementy projektu na mniejsze części, łatwiejsze do celu zwiększenia dokładności szacunków dotyczących kosztów, czasu i zasobów
+25. Problem projektowy związany z zakresem to:
+•	[-] a) Nierealne oczekiwania, niejasne cele i nierealne ramy czasowe
+•	[+] b) Wszystkie pozostałe
+•	[-] c) Zmiany w zleceniach projektowych i specyfikacjach wymagań oraz.. niekompetencja
+•	[-] d) Niekompetentne zlecenia projektowe i specyfikacje wymagań..
+26. Zakres projektu precyzuje się i uszczegóławia z uwzględnieniem:
+•	[-] a) Dostępności coraz większej liczby informacji o przedsięwzięciu
+•	[-] b) Rozpoznanych potrzeb, chęci i oczekiwań interesariuszy, które analizują wymagania
+•	[+] c) Wszystkie odp są poprawne
+•	[-] d) Analizy kompletności założeń i ograniczeń
+27. Zakres projektu:
+•	[-] a) Prace, które trzeba wykonać, aby wytworzyć wyrób lub dostarczyć usługę o określonych cechach charakterystycznych i funkcjach
+•	[-] b) Zarządzanie zakresem obejmuje procesy wymagane do zapewnienia, że w projekcie przewidziano wszystkie i zarazem wyłącznie te prace, które są konieczne w celu pomyślnego ukończenia tego projektu
+•	[+] c) Wszystkie odp są prawdziwe
+•	[-] d) Zakres projektu na etapie planowania jest dekomponowany na Pakiety Robocze
+28. Plan bazowy zakresu projektu wg PMBok obejmuje:
+•	[-] a) Katalog struktury podziału pracy
+•	[+] b) Wszystkie odp są prawdziwe
+•	[-] c) Struktura podziału pracy
+•	[-] d) Deklaracja zakresu projektu
+29. Struktura podziału pracy stanowi podstawę:
+•	[-] a) Określenia wymaganych działań, planowania zarządzania ryzykiem
+•	[+] b) Planowania działań i zasobów, szacowania kosztów, budowy budżetu, planowania zarządzania ryzykiem
+•	[-] c) Szacowania kosztów, budowy budżetu
+•	[-] d) Planowania zasobów, budowy budżetu
+30. Deklaracja zakresu projektu zawiera:
+•	[-] a) Opis zakresu projektu i wyłączeń, lista projektów powiązanych
+•	[+] b) Wszystkie odp są poprawne
+•	[-] c) Listę produktów projektu i kryteriów odbioru
+•	[-] d) Opis ograniczeń i założeń projektu
+31. Członkami Komitetu Sterującego wg. Metodyki PRINCE2 są:
+•	[-] a) Kontroler finansowy
+•	[-] b) Dyrektor Biura Zarzadzania Projektami (PMO)
+•	[+] c) Osoba odpowiedzialna biznesowo za zdefiniowanie wymagań użytkowników produktu projektu (tj. Główny Użytkownik)
+•	[-] d) Prezes zarządu
+32. Która z poniższych struktur organizacyjnych jest najsilniej nastawiona na realizację projektów?
+•	[-] a) Liniowa (funkcyjna)
+•	[-] b) Macierzowa słaba
+•	[+] c) Macierzowa silna
+•	[-] d) Liniowo-sztabowa
+33. Rolę właściciela (sponsora) musi pełnić:
+•	[+] a) Jedna osoba
+•	[-] b) Kierownik projektu
+•	[-] c) Kilka osób reprezentujących różnych interesariuszy
+•	[-] d) Żadna z pozostałych odpowiedzi
+34. Komitet Sterujący w projekcie:
+•	[+] a) Analizuje ważność i aktualność (ciągłość) uzasadniania biznesowego
+•	[-] b) Reprezentuje interesy wszystkich interesariuszy projektu
+•	[-] c) Angażuje się w prace wykonawcy
+•	[-] d) Nadzoruje bieżące postępy prac
+35. W przypadku projektu, którego zakres i proces (technologia) wytwarzania produktu są znane należy zastosować model cyklu życia:
+•	[+] a) Kaskadowy
+•	[-] b) Adaptacyjny
+•	[-] c) Iteracyjny i przyrostowy ze stałym "krótkim" czasem trwania etapów
+•	[-] d) Iteracyjny i przyrostowy ze zmiennym czasem trwania etapów
+36. Odpowiedzialność za to, że produkt przynosi korzyści określone w uzasadnieniu biznesowym projektu, ponosi:
+•	[-] a) Nadzór projektu
+•	[-] b) Komitet ds. odbioru produktów projektu
+•	[+] c) Przewodniczący komitetu sterującego
+•	[-] d) Komitet sterujący
+37. Etap projektu w podejściu klasycznym :
+•	[+] a) Standardowo przejście do następnego etapu jest zawsze uwarunkowane zakończeniem etapu poprzedniego
+•	[-] b) Wszystkie odpowiedzi są prawdziwe
+•	[-] c) Każdy etap ma swoje własne struktury zarządzania
+•	[-] d) Kończy się z chwilą z góry zadanego czasu
+38. W modelu fazowym cyklu życia projektu, podczas planowania projektu, dla każdego etapu ujętego w planie, powinny zostać wyznaczone:
+•	[-] a) Cele etapu oraz wszystkie zadania przewidziane w etapie
+•	[-] b) Wszystkie zadania przewidziane w etapie
+•	[-] c) Cele etapu oraz istotne produkty cząstkowe projektu uzyskiwane w etapie
+•	[+] d) Cele etapu, wszystkie zadania przewidziane w etapie oraz istotne produkty cząstkowe projektu, uzyskiwane w etapie
+39. Jaki zakres prac projektowych najlepiej opisuje fazę definiowania projektu?
+•	[-] a) Działalność projektowa i wykonawcza oraz kontrolna i koordynacyjna
+•	[-] b) Działalność wdrożeniowa i sprawozdawcza
+•	[+] c) Działalność koncepcyjna
+•	[-] d) Działalność planistyczna i organizacyjna
+40. Podejście oparte na planie (plan-driven) zakłada:
+•	[-] a) Opracowanie szczegółowego planu całego projektu
+•	[-] b) Zakres projektu jest znany i pozostaje niezmienny w czasie projektu
+•	[-] c) Zakres projektu jest definiowany zgodnie z bieżącymi wymaganiami i priorytetami
+•	[+] d) Zakres projektu jest znany, ale dopuszczalne są zmiany uzasadnione biznesowo
+41. Kamień milowy:
+•	[-] a) To działanie za które odpowiedzialny jest komitet sterujący
+•	[-] b) Żadna z powyższych
+•	[-] c) Charakteryzuje się czasem trwania, kosztem i ryzykiem
+•	[+] d) Istotne zdarzenie w projekcie, zwykle związane z ukończeniem jednego z głównych produktów cząstkowych
+42. Ryzyko a niepewność:
+•	[-] a) Ryzyka nie da są się skwantyfikować
+•	[+] b) Analiza ryzyka wpływa na uzasadnienie biznesowe projektu
+•	[-] c) Za bieżącą analizę ryzyka odpowiada Komitet Sterujący
+•	[-] d) Niepewność jest sumą wszystkich ryzyk w projekcie
+43. Współdzielona pula zasobów oznacza:
+•	[-] a) Wyznaczone w magazynie firmy miejsce na składowanie materiałów potrzebnych w projekcie, które może wykorzystać każdy członek zespołu
+•	[-] b) Dodatkowe środki finansowe, jakie sponsor jest gotów wpłacić na rzecz projektu, którymi można opłacić dowolne czynności
+•	[+] c) Grupę zasobów wykorzystywanych w naszym oraz w innych równolegle prowadzonych projektach
+•	[-] d) Grupę osób pracujących w dziale realizującym projekt
+44. Budżet projektu jest instrumentem:
+•	[+] a) Planowania i kontroli
+•	[-] b) Kontroli
+•	[-] c) planowania
+•	[-] d) Wczesnego ostrzegania
+45. Przyjmując za kryterium klasyfikacji kosztów, związek kosztów z projektem, wyróżnia się:
+•	[-] a) Koszty wydziałów podstawowych, koszty wydziałów pomocniczych, koszty sprzedaży, koszty zakupu, koszty zarządu
+•	[-] b) Koszty finansowe, koszty operacyjne
+•	[-] c) Koszty kwalifikowane, koszty niekwalifikowane
+•	[+] d) Koszty bezpośrednie, koszty pośrednie oraz koszty ogólne projektu, koszty pakietów prac, koszty poodbiorowe
+46. Wskaż działania związane z zarządzaniem zasobami:
+•	[-] a) Zarządzanie zasobami obejmuje określenie potrzebnych zasobów, w tym również zasobów potrzebnych do wykonania działań związanych z zarządzaniem projektem
+•	[-] b) Zarządzanie zasobami obejmuje planowanie zasobów wraz z określeniem i przydziałem zasobów o odpowiednim potencjale
+•	[+] c) Zarządzanie zasobami obejmuje planowanie zasobów wraz z określeniem i przydziałem zasobów o odpowiednim potencjale, jak również optymalizację sposobu wykorzystania zasobów w ramach harmonogramu, a także ich stałe monitorowanie i kontrola
+•	[-] d) Zarządzanie zasobami obejmuje m.in. jednorazowe opracowanie planu przydziału zasobów
+47. Przykładem jakościowej techniki oceny zagrożeń i szans jest:
+•	[-] a) Symulacja Monte Carlo
+•	[+] b) Macierz prawdopodobieństwa i skutków wystąpienia ryzyk
+•	[-] c) Analiza drzew decyzyjnych
+•	[-] d) Analiza wrażliwości
+48. Jaka reakcja na ryzyko byłaby najbardziej odpowiednia w sytuacji, gdy waga ryzyka jest niska, zaś działania zapobiegawcze byłby trudne i kosztowne, a ich koszt przewyższałby koszt obsługi ryzyka w przypadku jego wystąpienia:
+•	[-] a) Żadna z pozostałych
+•	[-] b) Przeniesienie ryzyka
+•	[-] c) Eliminacja ryzyka
+•	[+] d) Akceptacja ryzyka
+49. Macierz (Mapa, Profil) ryzyka służy do:
+•	[-] a) Aktualizacji planu komunikacji
+•	[-] b) Wyznaczania ścieżki krytycznej projektu
+•	[+] c) Do porównania zidentyfikowanych i ocenionych czynników ryzyka projektu
+•	[-] d) Motywowania zespołu projektowego
+50. Harmonogramowanie w projekcie ma na celu:
+•	[-] a) Uporządkowanie działań w logicznej kolejności w czasie
+•	[-] b) Ustalenie, kiedy ma nastąpić realizacja poszczególnych działań w projekcie
+•	[+] c) Wszystkie pozostałe
+•	[-] d) Ustalenie, jakie działania należy przeprowadzić
+51. Sposób przedstawienia zakresu projektu uwzględniający kolejność dostarczania:
+•	[-] a) Product specification
+•	[-] b) Product breakdown structure
+•	[+] c) Product flow diagram
+•	[-] d) Work breakdown structure
+52. Wśród warstw wiedzy projektowej wyróżnić można:
+•	[-] a) Zestawienia
+•	[+] b) Wszystkie pozostałe
+•	[-] c) Zbiory lub bazy informacji
+•	[-] d) Wiadomości
+53. Kto odpowiada za adekwatność uzasadnienia biznesowego przez cały czas trwania projektu?
+•	[-] a) Użytkownik
+•	[+] b) Właściciel biznesowy projektu (sponsor)
+•	[-] c) Nadzór projektu
+•	[-] d) Kierownik projektu
+54. Sukces projektu:
+•	[-] a) Spełnienie oczekiwań wszystkich interesariuszy projektu
+•	[-] b) Realizacja projektu w planowanym czasie i budżecie
+•	[-] c) Spełnienie oczekiwań interesariuszy organizacji reprezentującej projekt
+•	[+] d) Spełnienie oczekiwań kluczowych interesariuszy projektu
+55. Podstawowymi składnikami opisu każdego zagrożenia lub szansy są takie elementy jak:
+•	[+] a) Zdarzenie, prawdopodobieństwo, dotkliwość
+•	[-] b) Prawdopodobieństwo, niepewność, zdarzenie
+•	[-] c) Zdarzenie, niepewność, dotkliwość
+•	[-] d) Niepewność, prawdopodobieństwo, dotkliwość
+56. W ramach zarządzania kosztami projektu:
+•	[-] a) Ustala się budżet projektu bez konieczności podziału na pakiety pracy i moduły
+•	[+] b) Szacuje się koszty każdego pakietu pracy, wybranych modułów oraz całego przedsięwzięcia i ustala budżet projektu
+•	[-] c) Określa się główne zagrożenia finansowe projektu
+•	[-] d) Szacuje się koszty wybranych modułów
+57. Uzasadnienie biznesowe projektu:
+•	[-] a) Jest opracowywane w fazie przygotowywania projektu i pozostaje niezmienne przez cały cykl życia projektu
+•	[+] b) Stanowi podstawową przesłankę decyzji o ustanowieniu projektu i przejściu do kolejnych etapów projektu
+•	[-] c) Odpowiedzialność za jego przygotowanie i poprawność ponosi kierownik projektu
+•	[-] d) Koncertuje się wyłącznie na wyniku finansowym projektu
+58. W cyklu życia projektu wg PRINCE2® wyróżnia się następujące etapy:
+•	[-] a) Uzasadnienie biznesowe, organizacja, planowanie
+•	[-] b) Inicjonowanie projektu, doprecyzowanie projektu, realizacja, zamykanie
+•	[-] c) Planowanie, przegląd jakości, sterowanie zmianami
+•	[+] d) Przygotowanie projektu, inicjonowanie projektu, realizacja
+59. Poziom kosztów w projekcie w ujęciu narastającym od początku do końca projektu obrazuje:
+•	[-] a) Histogram kosztów
+•	[-] b) Metoda ścieżki krytycznej (CPM)
+•	[-] c) Diagram Gantta
+•	[+] d) Krzywa kosztów skumulowanych
+60. "Produkty" projektu powinny być opisane w matrycy logicznej:
+•	[-] a) W wierszu czynności
+•	[+] b) W wierszu rezultatów
+•	[-] c) W kolumnie wskaźników
+•	[-] d) W kolumnie założeń
+61. Zarządzanie zagrożeniami i szansami to proces odbywający się na:
+•	[-] a) Żadna z pozostałych
+•	[+] b) Wszystkich etapach cyklu życia projektu
+•	[-] c) Końcowym etapie cyklu życia projektu
+•	[-] d) Początkowym etapie cyklu życia projektu
+62. Pod pojęciem zasobów projektowych rozumie się:
+•	[-] a) Ludzi, materiały oraz infrastrukturę potrzebną do realizacji projektu
+•	[+] b) Ludzi, materiały, infrastrukturę oraz wiedzę i zasoby finansowe potrzebne do realizacji projektu
+•	[-] c) Ludzi, infrastrukturę oraz wiedzę potrzebną do realizacji projektu
+•	[-] d) Ludzi i materiały potrzebne do realizacji projektu
+63. Do kosztów realizacji zadań poniesionych w ramach projektu nie zaliczają się:
+•	[+] a) Koszty alternatywne
+•	[-] b) Koszty pośrednie
+•	[-] c) Koszty bezpośrednie
+•	[-] d) Koszty rzeczywiste
+64. Sponsor projektu to:
+•	[-] a) Jeden z menadżerów biura zarządzania projektami
+•	[+] b) Najczęściej przedstawiciel kierownictwa wyższego szczebla (zarządu)
+•	[-] c) Tylko i wyłącznie właściciel firmy
+•	[-] d) Bank kredytujący realizację projektu
+65. W organizacji, w której pracujesz realizowany jest projekt. Najwyższą władzą w projekcie jest:
+•	[-] a) Kierownik projektu
+•	[-] b) Komisja kontroli zmian
+•	[-] c) Biuro projektu
+•	[+] d) Komitet sterujący
+66. Proces zarządzania ryzykiem projektu powinien rozpocząć się od:
+•	[-] a) Raportowania ryzyka
+•	[-] b) Minimalizacji ryzyka
+•	[+] c) Identyfikacji ryzyka
+•	[-] d) Monitorowania ryzyka
+67. Czym jest budżetowanie elastyczne projektu:
+•	[-] a) To budżet negocjowany z przełożonymi i po korektach zatwierdzany do realizacji
+•	[+] b) Obejmuje opracowanie wielu budżetów dla różnych założeń - założenia te dotyczą tych zmian budżetu, które są trudne do prognozowania, dlatego tez warto mieć wiedzę z tego zakresu
+•	[-] c) To budżet opracowywany na podstawie harmonogramu z uwzględnieniem spodziewanego zapotrzebowania na zasoby
+•	[-] d) To budżet obejmujący cały cykl i zakres realizowanego projektu - opracowywany zarówno dla projektów długo jak i krótkoterminowych
+68. W matrycy logicznej projektu, w opisie celów ogólnych, celu bezpośredniego, celów produktowych oraz wymaganych działań wyróżnia się:
+•	[+] a) Wskaźniki realizacji celów i działań, wyszczególnienie źródeł danych i informacji do wskaźników
+•	[-] b) Wskaźniki realizacji celów i działań, wyszczególnienie źródeł danych i informacji do wskaźników, czynniki ryzyka w projekcie
+•	[-] c) Kolejność interwencji, wskaźniki realizacji, wyszczególnienie źródeł danych i informacji do wskaźników
+•	[-] d) Kolejność interwencji, wskaźniki realizacji, wyszczególnienie źródeł danych i informacji do wskaźników, czynniki ryzyka w projekcie
+69. Koszty pracy członków zespołu rozliczane na podstawie godzin to koszty:
+•	[-] a) Pośrednie
+•	[-] b) Dodatkowe
+•	[+] c) Bezpośrednie
+•	[-] d) Stałe
+70. Przykładem ryzyka technicznego jest:
+•	[-] a) Niepewna sytuacja polityczna
+•	[-] b) Zmiana warunków pogodowych
+•	[+] c) Zmiana wymogów jakościowych
+•	[-] d) Zmiana kierownictwa organizacji
+71. Matryca logiczna projektu (LFA w metodyce PCM):
+•	[-] a) Nie ma związku z dokumentem "studium wykonalności"
+•	[+] b) Wskazuje cele projektu, w tym cele ogólne (nadrzędne)
+•	[-] c) Nie zawiera wskaźników realizacji celów
+•	[-] d) Nie zawiera elementów drzewa celów
+72. Założenia w matrycy logicznej (LFA w metodyce PCM) są istotnym elementem:
+•	[+] a) Logiki wertykalnej (łączą działania z rezultatami, rezultaty z celami itp.)
+•	[-] b) Logiki horyzontalnej
+•	[-] c) Logiki rozmytej
+•	[-] d) Logiki wertykalnej i horyzontalnej
+73. W sytuacji przekroczenia budżetu projektu należy się liczyć z różnymi konsekwencjami. Nie należy do nich:
+•	[+] a) Brak jakichkolwiek konsekwencji
+•	[-] b) Opóźnienia w realizacji projektu
+•	[-] c) Utrata płynności finansowej
+•	[-] d) Niemożność dalszej realizacji projektu
+74. Przykładem kosztów stałych są koszty:
+•	[-] a) Oświetlania pomieszczeń
+•	[-] b) Ogrzewania pomieszczeń
+•	[+] c) Oświetlenia i ogrzewania pomieszczeń (w ujęciu zarządczym często traktowane łącznie jako stałe koszty utrzymania/overheads)
+•	[-] d) Koszty administracji rozliczane wg godzin
+75. W celu zmniejszenia błędów oszacowań w projekcie związanych z niepewnością i ryzykiem stosuje się zasadę:
+•	[-] a) Komplementarności
+•	[-] b) Żadna z pozostałych
+•	[-] c) Nadrzędności
+•	[+] d) Sukcesywności (ang. successive principle - metoda Lichtenberga)
+76. Zdolność wywierania wpływu przez interesariuszy na końcowe właściwości produktu projektu bez istotnego wpływu na jego koszt:
+•	[-] a) Jest największa w fazie zamknięcia projektu
+•	[-] b) Jest największa w fazie realizacji projektu
+•	[+] c) Jest największa w początkowej fazie projektu (na początku łatwo i tanio wprowadzać zmiany)
+77. Która rola w ramach zespołu zarządzania projektem, ma uprawnienie do wcześniejszego zamknięcia projektu, w sytuacji ustania uzasadnienia biznesowego?
+•	[+] a) Komitet sterujący
+•	[-] b) Kierownik projektu
+•	[-] c) Nadzór projektu
+•	[-] d) Zarząd przedsiębiorstwa
+78. Wskaż sformułowanie nieprawdziwe:
+•	[-] a) Ryzyko w projekcie jest nieuniknione
+•	[+] b) Ryzyko i niepewność to pojęcia tożsame (niepewność jest niemierzalna, a ryzyko można oszacować)
+•	[-] c) Ryzyko daje się kształtować w rozumieniu modyfikacji postaci i zakresu skutków
+•	[-] d) Ryzyko zmienia się w czasie
+79. Przekształcenie kapitału ludzkiego projektu w kapitał strukturalny to przekształcenie:
+•	[-] a) Wiedzy eksplikowanej w wiedzę implikowaną
+•	[-] b) Żadna z pozostałych
+•	[-] c) Wiedzy jawnej w wiedzę ukrytą
+•	[+] d) Wiedzy implikowanej w wiedzę eksplikowaną (czyli z wiedzy w głowach pracowników na udokumentowane procesy)
+80. Przykładem kapitału strukturalnego w projekcie:
+•	[-] a) Może być wiedza pracowników projektu
+•	[-] b) Może być zdrowie pracowników projektu
+•	[+] c) Mogą być procedury stworzone przez pracowników projektu
+•	[-] d) Może być doświadczenie pracowników projektu
+81. Do zasobów rzeczowych niematerialnych zalicza się:
+•	[-] a) Kredyty, znaki handlowe, prawa autorskie
+•	[+] b) Własne patenty, prawa autorskie, znaki handlowe
+•	[-] c) Kredyty, dotacje, wpłaty sponsorów
+•	[-] d) Budynki, eksperci zewnętrzni, obce patenty
+82. Zasobami w projekcie nie są:
+•	[-] a) Ludzie
+•	[-] b) Infrastruktura
+•	[-] c) Środki finansowe
+•	[+] d) Beneficjenci projektu (to odbiorcy, a nie zasoby)
+83. W cyklu życia projektu wg PMBOK® Guide wyróżnia się następujące etapy (grupy procesów):
+•	[-] a) Planowanie - wykonanie- sprawdzanie- usprawnianie
+•	[-] b) Żadne z powyższych
+•	[-] c) Przygotowanie- inicjowanie- realizacja- zamykanie
+•	[+] d) Rozpoczęcie- planowanie- realizacja- monitorowanie i kontrola - zakończenie
+84. Która rola zespołu zarządzania projektem jest odpowiedzialna za stworzenie zarysu uzasadnienia biznesowego?
+•	[+] a) Przewodniczący komitetu sterującego
+•	[-] b) Biuro projektu
+•	[-] c) Kierownik projektu
+•	[-] d) Zarząd organizacji
+85. Cykl życia projektu wg PRINCE2 składa się z etapów:
+•	[-] a) Planowanie - wykonanie- sprawdzanie- usprawnianie
+•	[+] b) Przygotowanie- inicjowanie- realizacja- zamykanie
+•	[-] c) Żadne z powyższych
+•	[-] d) Rozpoczęcie- planowanie- realizacja- monitorowanie i kontrola - zakończenie
+86. Wskaż potencjalne czynniki ryzyka projektów ekonomicznych i organizacyjnych:
+•	[-] a) nie wiem co tu wpisać
+•	[+] b) Zagrożenie harmonogramowe projektów, zagrożenia budżetowe, poziom złożoności projektu, wymogi jakościowe, warunki przygotowania i wdrożenia projektu, uwarunkowania kooperacyjne
+87. Zatwierdzanie struktury zespołu, zarządzania projektem, zatwierdzanie zmian w projekcie, przyjmowanie produktów projektu - to uprawnienia i odpowiedzialność:
+•	[+] a) Komitetu sterującego
+•	[-] b) Kierownika projektu
+•	[-] c) Głównego księgowego
+•	[-] d) Sekretariatu projektu (biura projektu)
+88. W procesie komercjalizacji o konieczności podjęcia współpracy z partnerami biznesowymi decyduje:
+•	[-] a) Charakter technologii
+•	[+] b) Dostęp do niezbędnych zasobów
+•	[-] c) Brak wiedzy na temat procesu komercjalizacji
+•	[-] d) Dostęp do najnowszej wiedzy światowej
+89. Jaki skutek niesie ze sobą przydzielenie opóźnionego zadania zatrudnionemu w tym celu konsultantowi?
+•	[-] a) Dodatkowy czas
+•	[-] b) Zmniejszenie rezerwy kierowniczej
+•	[-] c) zniechęcenie członków zespołu
+•	[+] d) Dodatkowe koszty
+90. Koszty bezpośrednie projektu to m. in.:
+•	[-] a) Wynagrodzenia członków zarządu firmy
+•	[+] b) Wynagrodzenia członków zespołu związane z realizacją zadań projektu
+•	[-] c) Administracja biura firmy
+•	[-] d) Użytkowanie budynku firmy
+91. Patenty na wynalazek mogą być ważne maksymalnie przez:
+•	[+] a) 20 lat
+•	[-] b) 10 lat
+•	[-] c) 25 lat
+•	[-] d) 5 lat
+92. Zakres wiedzy projektowej obejmuje:
+•	[-] a) Żadna z pozostałych
+•	[+] b) Zespół przekonań zgodnych z rzeczywistością, ogół umiejętności ludzkich
+•	[-] c) Zespół przekonań zgodnych z rzeczywistością
+•	[-] d) Ogół umiejętności ludzkich
+93. Która z czynności jest realizowana jako pierwsza w modelu etapów projektu:
+•	[+] a) Określenie podstawowych elementów projektu
+•	[-] b) Dokładne zdefiniowanie organizacji projektu
+•	[-] c) Koordynacja i dokumentowanie projektu
+•	[-] d) Ustalenie szczegółowego projektu
+94. Decyzje w warunkach niepewności opisywane są za pomocą modeli, w których:
+•	[-] a) Wartości parametrów modelu nie są znane
+•	[+] b) Zmienne niezależne przyjmują różne wartości, lecz nie jest znany ich rozkład prawdopodobieństwa (w odróżnieniu od ryzyka, gdzie prawdopodobieństwo jest znane)
+•	[-] c) Zmienne niezależne przyjmują różne wartości i znany jest ich rozkład prawdopodobieństwa
+•	[-] d) Wskazanie najlepszego wariantu decyzji jest trudne
+95. Analiza wrażliwości dotyczy badania:
+•	[+] a) Wpływu zmian jednych wielkości na inne wielkości (np. jak wzrost kosztów materiałów wpłynie na NPV)
+•	[-] b) Powiązań między zadaniami w harmonogramie projektu
+•	[-] c) Wpływu zmian kosztów na efektywność projektu
+•	[-] d) Wpływu interesariuszy na efektywność projektu
+96. Przekształcenie informacji projektowej w wiedzę projektowa jest możliwe po:
+•	[-] a) Wystąpieniu następstwa, czyli wpływu danej informacji związanej z projektem na decyzje z nim związane
+•	[+] b) Wszystkie pozostałe
+•	[-] c) Po dokonaniu porównania, jak informacja na temat danej sytuacji w projekcie wygląda na tle pozostałych informacji
+97. Do zadań poprzedzających fazę planowania projektu nalezą:
+•	[+] a) Określenie problemu projektowego, celu głównego i celów cząstkowych projektu, zasad oceny rezultatów projektu oraz rodzajów ryzyka związanego z realizacją projektu
+•	[-] b) Określenie problemu projektowego oraz oczekiwanego produktu projektu
+•	[-] c) Określenie problemu projektowego, celu głównego projektu, celów cząstkowych i zasad oceny stopnia realizacji celów
+•	[-] d) Określenie problemu projektowego i głównych rodzajów ryzyka związanych z realizacją projektu
+98. Przykładem kosztów zmiennych są koszty:
+•	[+] a) Surowców
+•	[-] b) Administracji zatrudniona w projekcie na etat
+•	[-] c) Oświetlenie pomieszczeń
+•	[-] d) Ogrzewanie pomieszczeń
+99. Zadanie polega na położeniu 5 km kabla. Planowane koszty położenia 1 km kabla to 200 zł. Aktualna wartość budżetu końcowego (BAC) to 5km * 200 = 1000zł. Do danej chwili planowano położenie 3 km kabla, w rzeczywistości położono 2 km, przy czym koszt położenia 1 km kabla faktycznie wyniósł 300 zł. Oceń stan wykonania zadania za pomocą wskaźnika odchylenia kosztu (CV):
+•	[+] a) CV=-200 zł odchylenie kosztów to różnica pomiędzy BCWP planowanym kosztem wykonanej pracy (400) a ACWP rzeczywistym (600) wiec cv=400-600
+•	[-] b) CV=-250zł
+•	[-] c) CV=500zł
+•	[-] d) CV=600 zł
+100. RBS to skrót oznaczający:
+•	[-] a) Strukturę podziału pracy (to WBS)
+•	[-] b) Strukturę podziału produktów (to PBS)
+•	[+] c) Strukturę podziału ryzyka (Risk Breakdown Structure)
+•	[-] d) Strukturę organizacyjną projektu (to OBS)
+101. Koszty zatrudnionych na etacie pracowników administracji świadczących usługi dla projektów to koszty:
+•	[-] a) Dodatkowe
+•	[-] b) Zmienne pośrednie
+•	[+] c) Stałe pośrednie
+•	[-] d) Bezpośrednie
+102. Który z poniższych przykładów można uznać za rezultat projektu zgodnie z metodyką PCM?
+•	[-] a) Zakupiony park maszynowy w trakcie realizacji projektu
+•	[-] b) Wybudowana hala produkcyjna w wyniku realizacji projektu
+•	[+] c) Wzrost liczby powstałych przedsiębiorstw sektora MSP w określonym obszarze oddziaływania projektu
+•	[-] d) Przyrost powierzchni hali produkcyjnej (w m2)
+103. Do cech wiedzy projektowej należą:
+•	[-] a) Brak symultaniczności
+•	[-] b) Brak dominacji
+•	[-] c) Żadna z pozostałych
+•	[+] d) Trudność ochrony
+104. Jaki horyzont czasowy przyjmuje się najczęściej do celów ogólnych (nadrzędnych) projektu:
+•	[-] a) 1 rok do 2 lat
+•	[+] b) 3 lata do 5 lat (UE)
+•	[-] c) 2 lata do 3 lat
+•	[-] d) 5 do 10 lat
+105. Najważniejszymi i najczęściej analizowanymi czynnikami ryzyka są:
+•	[+] a) Czynniki finansowe i produkcyjne
+•	[-] b) Czynniki środowiskowe i prawne
+•	[-] c) Żadne z pozostałych
+•	[-] d) Czynniki produkcyjne i prawne
+106. Cele projektu opisane są za pomocą:
+•	[+] a) Zbioru wskaźników docelowych, które mają zapewnić interesariuszom uzyskanie oczekiwanych korzyści
+•	[-] b) Dowolnego rodzaju tekstu stworzonego przez kierownika projektu
+•	[-] c) Zbioru wskaźników ustalonego przez cały zespół projektowy
+•	[-] d) Grafiki prezentującej oczekiwania zespołu projektowego
+107. Zmiana warunków pogodowych to przykład ryzyka:
+•	[-] a) Organizacyjnego
+•	[-] b) Technicznego
+•	[+] c) Zewnętrznego
+•	[-] d) Prawnego
+108. Węzły losowe w drzewach decyzyjnych oznaczają:
+•	[-] a) Zdarzenia
+•	[-] b) Działania
+•	[+] c) Stany natury
+•	[-] d) Wypłaty
+109. W okresie wystąpienia problemów w projekcie i związanym z nimi czasowym zaprzestaniem realizacji projektu koszt związany z wynajmem biura można określić jako:
+•	[-] a) Przeciętny koszt zmienny
+•	[-] b) Koszt krańcowy
+•	[+] c) Koszt utopiony
+•	[-] d) Koszt zmienny
+110. Decyzje w warunkach ryzyka podejmowane są na podstawie reguły:
+•	[-] a) Pareto
+•	[+] b) Maksymalizacji wartości oczekiwanej wypłat
+•	[-] c) Minimalizacji współczynnika zmienności
+•	[-] d) Maksymalizacji wartości zaktualizowanej netto
+111. Autorskie prawa majątkowe:
+•	[-] a) Są dożywotnie
+•	[-] b) Gasną po 20 latach
+•	[-] c) Nie obejmują utworów pisanych
+•	[+] d) Gasną z upływem 70 lat od śmierci ostatniego twórcy
+112. Matryca logiczna (LFA w metodyce PCM) składa się z:
+•	[-] a) Drewa celów
+•	[-] b) Wielowymiarowych narzędzi planistycznych
+•	[+] c) Z wierszy i kolumn
+•	[-] d) Drzewa problemów
+113. Odpowiedzialność za sukces projektu ponosi:
+•	[-] a) Zarząd organizacji
+•	[+] b) Właściciel biznesowy (sponsor) projektu
+•	[-] c) Kierownik projektu
+•	[-] d) Komitet Sterujący projektu
+114. Cykl życia projektu:
+•	[-] a) Składa się wyłącznie z etapów realizacji projektu
+•	[-] b) Obejmuje cykl życia produktu projektu
+•	[-] c) Element struktury podziału pracy (WBS)
+•	[+] d) Składa się z sekwencji etapów projektu
+115. Podstawowe Założenia Projektu (wg. PRINCE2), Karta Projektu (wg. PMBOK) wskaż stwierdzenie nieprawdziwe:
+•	[+] a) Zawiera szczegółowy harmonogram i kosztorys projektu
+•	[-] b) Zatwierdzenie Karty Projektu oznacza ustanowienie projektu (formalny początek projektu)
+•	[-] c) Zawiera definicję celów projektu i deklarację zakresu projektu
+•	[-] d) Identyfikuje właściciela biznesowego projektu i kierownika projektu
+116. Logiczna sekwencja planowania projektu:
+•	[+] a) Cel - Produkty - Działania - Zakres - Zasoby
+•	[-] b) Zakres - Cel - Produkty - Działania - Zasoby
+•	[-] c) Działania - Cel - Zasoby - Produkty - Zakres
+•	[-] d) Cel - Zakres - Produkty - Działania - Zasoby
+117. Sukces projektu:
+•	[-] a) Realizacja projektu w planowanym czasie i budżecie
+•	[-] b) Spełnienie oczekiwań wszystkich interesariuszy projektu
+•	[-] c) Spełnienie oczekiwań interesariuszy organizacji realizującej projekt
+•	[+] d) Spełnienie oczekiwań kluczowych interesariuszy projektu
+118. Obiektywnie weryfikowalny cel, to cel:
+•	[-] a) dla którego zdefiniowano wartość wskaźnika, której osiągnięcie oznacza zrealizowanie celu
+•	[+] b) dla którego zdefiniowano wskaźnik i wartość wskaźnika, której osiągnięcie oznacza zrealizowanie celu oraz źródła danych, na podstawie których wyznaczana jest wartość wskaźnika
+•	[-] c) dla którego zdefiniowano wskaźnik mierzący stopień osiągnięcia celu
+•	[-] d) dla którego zdefiniowano źródła danych, na podstawie których wyznaczana jest wartość wskaźnika
+119. Kamień milowy:
+•	[+] a) Istotne zdarzenie w projekcie, na ogół związane z ukończeniem jednego z głównych produktów cząstkowych
+•	[-] b) Działanie, za które odpowiedzialny jest Komitet Sterujący
+•	[-] c) Charakteryzuje się czasem trwania, kosztem i ryzykiem
+•	[-] d) Zadanie o szczególnie dużym ciężarze dla projektu
+120. Zakres projektu:
+•	[+] a) Wszystkie odpowiedzi są prawdziwe
+•	[-] b) Zakres projektu na etapie planowania jest dekomponowany na Pakiety Robocze
+•	[-] c) Prace, które trzeba wykonać, aby wytworzyć wyrób lub dostarczyć usługę o określonych cechach charakterystycznych i funkcjach
+•	[-] d) Zarządzanie zakresem obejmuje procesy wymagane do zapewnienia, że w projekcie przewidziano wszystkie i zarazem wyłącznie te prace, które są konieczne w celu pomyślnego ukończenia tego projektu
+121. Etap projektu:
+•	[-] a) Grupa zadań zlecana jednemu wykonawcy
+•	[+] b) Zbiór działań realizowanych w projekcie powiązanych ze sobą określonymi zależnościami logicznymi. Zwykle prowadzi do powstania jednego z głównych produktów cząstkowych projektu
+•	[-] c) Element pakietu roboczego
+•	[-] d) Element struktury organizacyjnej projektu
+122. Produkt projektu:
+•	[+] a) Wszystkie odpowiedzi są prawdziwe
+•	[-] b) Wyrób lub usługa, którą projekt musi stworzyć, uzyskać lub dostarczyć jako część wymagań. Może to być wynik końcowy projektu, część wyniku końcowego lub element pośredni, od którego zależy jeden lub więcej kolejnych produktów
+•	[-] c) Metodyka PRINCE2 wyróżnia produkty techniczne (specjalistyczne) i zarządcze
+•	[-] d) Produkt może sam być zbiorem innych produktów
+123. Wyniki analizy interesariuszy przedstawiane są w:
+•	[-] a) Macierz (mapa) interesariuszy
+•	[-] b) Macierz oceny zaangażowania
+•	[+] c) Wszystkie odpowiedzi są prawdziwe
+•	[-] d) Rejestr interesariuszy
+124. Zarządzanie zaangażowaniem interesariuszy powinno być prowadzone na etapie:
+•	[-] a) Przygotowania i inicjowania projektu (wg. PRINCE2), Inicjowania i planowania projektu (wg. PMBOK)
+•	[-] b) Zamykania projektu
+•	[-] c) Realizacji projektu
+•	[+] d) Ustawicznie, w całym cyklu życia projektu
+125. Uzasadnienie biznesowe projektu:
+•	[-] a) Koncentruje się wyłącznie na wyniku finansowym projektu
+•	[+] b) Stanowi podstawową przesłankę decyzji o ustanowieniu projektu i przejściu do kolejnych etapów projektu
+•	[-] c) Jest opracowywane w fazie przygotowywania projektu i pozostaje niezmienne przez cały cykl życia projektu
+•	[-] d) Odpowiedzialność za jego przygotowanie i poprawność ponosi kierownik projektu
+126. Logiczna sekwencja planowania projektu:
+•	[-] a) Cel -> Zakres -> Produkty -> Działania -> Zasoby
+•	[-] b) Działania -> Cel -> Zasoby -> Produkty -> Zakres
+•	[+] c) Cel -> Produkty -> Działania -> Zakres -> Zasoby
+•	[-] d) Zakres -> Cel -> Produkty -> Działania -> Zasoby
+127. Do analizy otoczenia przedsiębiorstwa na początkowym etapie formułowania strategii konkurencji najlepiej nadaje się:
+•	[-] a) Analiza problemów
+•	[-] b) Analiza SWOT
+•	[-] c) Model 5 sił konkurencyjnych Portera
+•	[+] d) Analiza PESTEL
+128. Wpływ interesariuszy na projekt jest największy na etapach:
+•	[-] a) Realizacji projektu
+•	[-] b) Zamykania projektu
+•	[+] c) Przygotowywania i inicjowania projektu (wg. PRINCE2), Inicjowania i planowania projektu (wg. PMBoK)
+•	[-] d) Jest stały w całym cyklu życia projektu
+129. W analizie interesariuszy należy wziąć pod uwagę:
+•	[-] a) Siłę oddziaływania interesariuszy na projekt
+•	[-] b) Spodziewany poziom aktywnego zaangażowania interesariuszy w projekt
+•	[+] c) Wszystkie odpowiedzi są prawdziwe
+•	[-] d) Cele i oczekiwania interesariuszy
+130. Do wewnętrznych czynników środowiskowych prowadzonej działalności z perspektywy firmy prowadzącej projekt należą m.in.:
+•	[-] a) Aktualny stan Techniki, Technologii, Nauki na świecie
+•	[+] b) Zasoby finansowe firmy (kapitał obrotowy, majątek, zdolność kredytowa)
+•	[-] c) Konflikty i wojny
+•	[-] d) Model doskonałości projektowej IPMA
+131. Zewnętrzne czynniki środowiskowe prowadzonej działalności z perspektywy firmy prowadzącej projekt to:
+•	[-] a) Posiadane przez firmę prowadzącą projekt zasoby ludzkie (kapitał intelektualny, kompetencje, wydajność pracy)
+•	[+] b) Uwarunkowania makroekonomiczne
+•	[-] c) Kultura organizacyjna firmy prowadzącej projekt
+•	[-] d) Misja, wartości, strategia firmy prowadzącej projekt
+132. Na kulturę organizacyjną firmy składają się m.in.:
+•	[+] a) Wszystkie odpowiedzi są poprawne
+•	[-] b) Wartości, postawy, zasady postępowania obowiązujące w firmie
+•	[-] c) Praktykowane style zarządzania
+•	[-] d) Style relacji pomiędzy pracownikami
+133. Sposób przedstawienia zakresu projektu uwzględniający kolejność dostarczania produktów projektu to:
+•	[-] a) work breakdown structure
+•	[-] b) product breakdown structure
+•	[+] c) product flow diagram
+•	[-] d) product specification
+134. Techniki i narzędzia, które wspomagają precyzowanie zakresu projektu to:
+•	[-] a) Wszystkie odpowiedzi są poprawne
+•	[+] b) Analiza i definiowanie wymagań
+•	[-] c) Deklaracja zakresu projektu
+•	[-] d) Analiza interesariuszy
+135. W zagadnieniach planowania projektu, dla których bezpośrednią podstawę stanowi opracowana Struktura Podziału Pracy to:
+•	[-] a) Szacowanie kosztów, budowa budżetu
+•	[-] b) Planowanie zasobów, budowa budżetu
+•	[-] c) Określanie wymaganych działań, planowanie zarządzania ryzykiem
+•	[+] d) Określanie wymaganych działań, szacowanie kosztów, budowa budżetu, planowanie zarządzania ryzykiem
+Oto ostatnia partia pytań! Z drugiego pliku wyciągnąłem tylko te, które w jakikolwiek sposób różniły się od pierwszego (drugi dokument okazał się w dużej mierze zrzutami z quizów mieszającymi pytania z pierwszej puli, więc usunąłem idealne duplikaty, żebyś nie miał śmietnika).
+136. Deklaracja zakresu projektu zawiera:
+•	[-] a) Opis ograniczeń i założeń projektu
+•	[-] b) Listę produktów projektu i kryteriów odbioru
+•	[+] c) Wszystkie odp są poprawne
+•	[-] d) Opis zakresu projektu i wyłączeń, lista projektów powiązanych
+137. Strukturyzując zakres projektu należy:
+•	[+] a) Zdekomponować główne elementy projektu na mniejsze części, łatwiejsze do celu zwiększenia dokładności szacunków dotyczących kosztów, czasu i zasobów
+•	[-] b) Zdefiniować punktu odniesienia dla działań kontrolnych
+•	[-] c) Poprzestać na deklaracji zakresu projektu
+•	[-] d) Uwzględnić odpowiedzialność
+138. Zakres projektu precyzuje się i uszczegóławia z uwzględnieniem:
+•	[-] a) Dostępności coraz większej liczby informacji o przedsięwzięciu
+•	[-] b) Analizy kompletności założeń i ograniczeń
+•	[+] c) Wszystkie odp są poprawne
+•	[-] d) Rozpoznanych potrzeb, chęci i oczekiwań interesariuszy, które analizują wymagania
+139. Komitet Sterujący w projekcie:
+•	[+] a) Analizuje ważność i aktualność (ciągłość) uzasadniania biznesowego
+•	[-] b) Angażuje się w prace wykonawcy
+•	[-] c) Reprezentuje interesy wszystkich interesariuszy projektu
+•	[-] d) Nadzoruje bieżące postępy prac
+140. Etap projektu w podejściu klasycznym:
+•	[-] a) Każdy etap ma swoje własne struktury zarządzania
+•	[-] b) Wszystkie odpowiedzi są prawdziwe
+•	[-] c) Kończy się z chwilą z góry zadanego czasu
+•	[+] d) Standardowo przejście do następnego etapu jest zawsze uwarunkowane zakończeniem etapu poprzedniego
+141. Podejście oparte na planie (plan-driven) zakłada:
+•	[+] a) Zakres projektu jest znany, ale dopuszczalne są zmiany uzasadnione biznesowo
+•	[-] b) Zakres projektu jest znany i pozostaje niezmienny w czasie projektu
+•	[-] c) Zakres projektu jest definiowany zgodnie z bieżącymi wymaganiami i priorytetami
+•	[-] d) Opracowanie szczegółowego planu całego projektu
+142. Jaki zakres prac projektowych najlepiej opisuje fazę definiowania projektu?
+•	[+] a) Działalność koncepcyjna
+•	[-] b) Działalność projektowa i wykonawcza oraz kontrolna i koordynacyjna
+•	[-] c) Działalność wdrożeniowa i sprawozdawcza
+•	[-] d) Działalność planistyczna i organizacyjna
+143. Członkami Komitetu Sterującego wg. metodyki PRINCE2 są:
+•	[+] a) Osoba odpowiedzialna biznesowo za zdefiniowanie wymagań użytkowników produktu projektu
+•	[-] b) Kontroler finansowy
+•	[-] c) Prezes zarządu
+•	[-] d) Dyrektor Biura Zarzadzania Projektami (PMO)
+144. W modelu fazowym cyklu życia projektu, podczas planowania projektu, dla każdego etapu ujętego w planie, powinny zostać wyznaczone:
+•	[-] a) Cele etapu oraz istotne produkty cząstkowe projektu uzyskiwane w etapie
+•	[+] b) Cele etapu, wszystkie zadania przewidziane w etapie oraz istotne produkty cząstkowe projektu, uzyskiwane w etapie
+•	[-] c) Wszystkie zadania przewidziane w etapie
+•	[-] d) Cele etapu oraz wszystkie zadania przewidziane w etapie
+145. Rolę właściciela (sponsora) musi pełnić:
+•	[-] a) Kierownik projektu
+•	[+] b) Jedna osoba
+•	[-] c) Kilka osób reprezentujących różnych interesariuszy
+•	[-] d) Żadna z pozostałych odpowiedzi
+146. W przypadku projektu, którego zakres i proces (technologia) wytwarzania produktu są znane należy zastosować model cyklu życia:
+•	[+] a) Kaskadowy
+•	[-] b) Iteracyjny i przyrostowy ze stałym "krótkim" czasem trwania etapów
+•	[-] c) Adaptacyjny
+•	[-] d) Iteracyjny i przyrostowy ze zmiennym czasem trwania etapów
+147. Która z poniższych struktur organizacyjnych jest najsilniej nastawiona na realizację projektów?
+•	[-] a) Macierzowa słaba
+•	[+] b) Macierzowa silna
+•	[-] c) Liniowo-sztabowa
+•	[-] d) Liniowa (funkcyjna)
+148. Odpowiedzialność za to, że produkt przynosi korzyści określone w uzasadnieniu biznesowym projektu, ponosi:
+•	[+] a) Przewodniczący komitetu sterującego
+•	[-] b) Nadzór projektu
+•	[-] c) Komitet sterujący
+•	[-] d) Komitet ds. odbioru produktów projektu
+
