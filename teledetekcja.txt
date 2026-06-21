@@ -1,0 +1,599 @@
+1. Zgodnie z podaną definicją, teledetekcja NIE zajmuje się bezpośrednio:
+* [+] a) Ustaleniem sposobu użytkowania terenu (LULC)
+* [-] b) Ustaleniem rodzaju materiału pokrywającego powierzchnię terenu
+* [-] c) Ustaleniem stanu fizyko-chemicznego materiału pokrywającego teren
+* [-] d) Ustaleniem stanu biologicznego materiału
+
+2. Wśród pięciu głównych komponentów systemu klimatu Ziemi wyróżniamy:
+* [-] a) Jonosferę i egzosferę
+* [+] b) Hydrosferę, biosferę, litosferę, atmosferę i kriosferę
+* [-] c) Stratosferę, mezosferę i astenosferę
+* [-] d) Pedosferę i magnetosferę
+
+3. Która seria satelitów dostarcza bezcennych danych dla analizy trendów środowiskowych nieprzerwanie od 1972 roku?
+* [-] a) Copernicus Sentinel
+* [+] b) USGS / NASA Landsat
+* [-] c) ESA Envisat
+* [-] d) ICESat
+
+4. Który z satelitów europejskiego programu Copernicus dostarcza głównie dane radarowe (SAR)?
+* [+] a) Sentinel-1
+* [-] b) Sentinel-2
+* [-] c) Sentinel-3
+* [-] d) Sentinel-5P
+
+5. Zmiany pola grawitacyjnego (wykorzystywane m.in. do oceny topnienia lądolodów i wzrostu poziomu mórz) są monitorowane przez misję:
+* [-] a) Landsat 8
+* [-] b) Sentinel-2
+* [+] c) GRACE oraz GRACE FO
+* [-] d) ICESat-2
+
+6. Znormalizowany wskaźnik różnicy zabudowy (NDBI) służy do:
+* [-] a) Badania zagęszczenia roślinności
+* [-] b) Określania temperatury powierzchni oceanów
+* [+] c) Identyfikacji obszarów miejskich i uszczelnienia powierzchni
+* [-] d) Obliczania standaryzowanego opadu deszczu
+
+7. Wskaźnik SPI (Standardized Precipitation Index) znajduje główne zastosowanie w monitorowaniu:
+* [-] a) Fali upałów w miastach
+* [-] b) Ekspansji miejskiej zabudowy
+* [+] c) Zjawiska suszy w hydrosferze
+* [-] d) Grubości pokrywy lodowej na Antarktydzie
+
+8. W sytuacji, gdy obiekt rozpraszający falę elektromagnetyczną w atmosferze (promień cząsteczki) jest znacznie mniejszy od długości tej fali (k << 1), zachodzi:
+* [-] a) Rozpraszanie typu Mie
+* [-] b) Zjawisko całkowitego odbicia lustrzanego
+* [+] c) Rozpraszanie typu Rayleigh
+* [-] d) Zjawisko odbicia Lamberta
+
+9. Wśród głównych celów naukowych misji ICESat-2 znajduje się:
+* [-] a) Pomiary składu chemicznego atmosfery w megamiastach
+* [-] b) Dokładne mapowanie topografii dna oceanicznego
+* [+] c) Wpływ topnienia lodowców na wzrost poziomu morza oraz pomiar wysokości roślinności
+* [-] d) Wykrywanie zanieczyszczeń w rzekach i jeziorach
+
+10. Główny instrument pokładowy skanera laserowego zainstalowanego na satelicie ICESat-2 nosi nazwę:
+* [-] a) KaRin
+* [-] b) HOMER
+* [-] c) SAR
+* [+] d) ATLAS (Advanced Topographic Laser Altimeter System)
+
+11. Wiązka lasera emitowana przez instrument ATLAS (misja ICESat-2) posiada długość fali 532 nm, co odpowiada światłu o barwie:
+* [-] a) Czerwonej
+* [+] b) Jasnozielonej
+* [-] c) Fioletowej
+* [-] d) Niewidzialnej (głęboka podczerwień)
+
+12. Na jakiej platformie zainstalowano w grudniu 2018 roku sprzęt pomiarowy misji GEDI (Global Ecosystems Dynamics Investigation)?
+* [+] a) Na pokładzie Międzynarodowej Stacji Kosmicznej (ISS)
+* [-] b) Na pokładzie promu kosmicznego wahadłowca
+* [-] c) Na dronach wysokiego pułapu operujących nad Amazonią
+* [-] d) Na samodzielnym satelicie na orbicie geostacjonarnej
+
+13. SRTM, którego efektem był przełomowy numeryczny model terenu całego globu (o rozdzielczości m.in. 30 m), to skrót od:
+* [-] a) Space Radar Terrain Model
+* [-] b) Standardized Remote Topography Method
+* [+] c) Shuttle Radar Topography Mission
+* [-] d) Synthetic Radar Topographic Measurement
+
+14. Błędy środowiskowe (zewnętrzne względem instrumentu pomiarowego) przy generowaniu Numerycznych Modeli Terenu wywołane są m.in. przez:
+* [-] a) Błąd kwantyzacji sygnału na etapie przetwarzania
+* [-] b) Niewłaściwą kalibrację parametrów orbity satelity
+* [+] c) Refrakcję fal w atmosferze, zachmurzenie oraz szorstkość materiału pokrywającego teren
+* [-] d) Spadek terenu, który powoduje rozciągnięcie piksela w przestrzeni
+
+15. Formatem danych specjalnie stworzonym dla środowisk Big Data, który pozwala zintegrować duże bloki danych z metadanymi i jest obsługiwany przez biblioteki takie jak HDF4 czy HDF5, nosi rozwinięcie:
+* [-] a) High Definition Format
+* [+] b) Hierarchical Data Format
+* [-] c) Hyper-spectral Data Framework
+* [-] d) Harmonized Digital File
+
+16. Według europejskiego programu Copernicus, do jakich głównych celów przeznaczony jest satelita Sentinel-3?
+* [+] a) Oceanografia i klimat
+* [-] b) Wyłącznie dane radarowe (SAR) wysokiej rozdzielczości
+* [-] c) Pomiary pola grawitacyjnego Ziemi
+* [-] d) Monitorowanie stężenia gazów cieplarnianych w miastach
+
+17. Jakie charakterystyczne struktury wylesiania (wzory) można zaobserwować na zdjęciach satelitarnych w rejonie Amazonii?
+* [-] a) Tylko struktury koliste (Circular)
+* [+] b) Fishbone (ości), Radialne, Dendrytyczne i Prostokątne
+* [-] c) Wyłącznie liniowe wzdłuż rzek
+* [-] d) Szachownicowe i trójkątne
+
+18. Dlaczego dane radarowe (SAR) są szczególnie użyteczne w monitorowaniu powodzi w porównaniu do danych optycznych?
+* [+] a) SAR działa w nocy i przenika przez zachmurzenie (działa przy zachmurzeniu)
+* [-] b) SAR dostarcza obrazy w naturalnych kolorach (RGB)
+* [-] c) SAR bezpośrednio mierzy temperaturę i skażenie chemiczne wezbranej wody
+* [-] d) SAR ma zdolność wykrywania obiektów podwodnych do głębokości 50 metrów
+
+19. Wskaźnik SPI (Standardized Precipitation Index) oraz SPEI są szeroko wykorzystywane przy monitorowaniu jakiego zjawiska?
+* [-] a) Topnienia wiecznej zmarzliny
+* [-] b) Wylesiania
+* [+] c) Suszy (European Drought Observatory)
+* [-] d) Erozji brzegów morskich
+
+20. Co w teledetekcyjnych badaniach miejskich oznacza skrót LST?
+* [+] a) Wskaźnik temperatury powierzchni Ziemi (Land Surface Temperature), odzwierciedlający wymianę energii między gruntem a atmosferą
+* [-] b) Znormalizowany wskaźnik różnicy zabudowy
+* [-] c) Indeks uszczelnienia terenu
+* [-] d) Poziom odbicia światła od powierzchni szklanych
+
+21. Algorytmy Random Forest, SVM (Support Vector Machine) oraz CNN (konwolucyjne sieci neuronowe) to w teledetekcji przykłady:
+* [-] a) Metod kompresji danych radarowych
+* [+] b) Technik uczenia maszynowego (Machine Learning) i głębokiego
+* [-] c) Platform do przetwarzania w chmurze
+* [-] d) Modeli korekcji atmosferycznej
+
+22. Google Earth Engine, WEKEO DIAS i openEO to przykłady:
+* [+] a) Platform do przetwarzania w chmurze, pozwalających na analizę petabajtów danych bez ich pobierania
+* [-] b) Oprogramowania instalowanego lokalnie do klasyfikacji obiektowej
+* [-] c) Konstelacji małych satelitów optycznych
+* [-] d) Naziemnych stacji odbiorczych dla programu Copernicus
+
+23. Jednym z ograniczeń etycznych obserwacji Ziemi jest tzw. "nierówność informacyjna". Na czym ona polega?
+* [-] a) Bogate kraje celowo zniekształcają dane optyczne dla innych
+* [+] b) Kraje rozwinięte mają pełen dostęp do systemów EO, a kraje rozwijające się muszą kupować dane, co prowadzi do asymetrii wiedzy
+* [-] c) Różne satelity dostarczają dane w niekompatybilnych formatach (np. HDF vs TIFF)
+* [-] d) Systemy AI faworyzują dane z półkuli północnej
+
+24. Misja Surface Water and Ocean Topography (SWOT) posłużyła m.in. do stworzenia bardzo dokładnej mapy dna oceanicznego. W jaki sposób satelita "zobaczył" dno?
+* [-] a) Za pomocą lasera zielonego (532 nm), który przenika wodę do 5000 metrów
+* [-] b) Używając sonaru akustycznego opuszczanego na linie
+* [+] c) Mierząc subtelne anomalie i zniekształcenia wysokości powierzchni wody wywołane grawitacją podwodnych struktur
+* [-] d) Skanując temperaturę wody, która nad górami podwodnymi jest zawsze wyższa
+
+25. Fundamentalne równanie bilansu energii promieniowania elektromagnetycznego w teledetekcji określa, że energia padająca to suma:
+* [-] a) Rozproszenia, ugięcia i dyfrakcji
+* [+] b) Absorpcji, transmisji i odbicia
+* [-] c) Emisji, konwekcji i przewodzenia
+* [-] d) Kwantyzacji, próbkowania i refrakcji
+
+26. Co dzieje się z obrazem lub sygnałem podczas procesu zwanego "kwantyzacją"?
+* [+] a) Zakres ciągły kolorów (lub sygnału) zostaje odwzorowany na skończoną, dyskretną liczbę wartości
+* [-] b) Płaski obraz 2D zyskuje współrzędne 3D dzięki nałożeniu modelu NMT
+* [-] c) Fale elektromagnetyczne są rozpraszane przez cząsteczki atmosfery
+* [-] d) Sygnał dyskretny zostaje zamieniony na sygnał ciągły w celu wygładzenia obrazu
+
+27. Głównym celem instrumentu GEDI zainstalowanego na Międzynarodowej Stacji Kosmicznej (ISS) jest:
+* [-] a) Pomiar wilgotności gleby i zasolenia oceanów
+* [+] b) Tworzenie globalnych profili wysokościowych lasów Ziemi (struktura koron) i łączenie ich z jakością siedlisk
+* [-] c) Wykrywanie zanieczyszczeń powietrza i dziury ozonowej
+* [-] d) Śledzenie powodzi i katastrof naturalnych w czasie rzeczywistym
+
+28. Całkowita szerokość pokosu (obszaru skanowanego w poprzek torów) przez instrument laserowy GEDI wynosi:
+* [+] a) 5,4 km (składa się z ośmiu ścieżek rozmieszczonych co ok. 600 m)
+* [-] b) 90 m
+* [-] c) 13 m
+* [-] d) 250 km
+
+29. Technika InSAR (Interferometria Radaru Wysokiej Rozdzielczości) wykorzystuje do pomiaru przemieszczeń terenu i tworzenia numerycznych modeli terenu:
+* [-] a) Różnicę czasu przelotu dwóch wiązek laserowych w paśmie zielonym
+* [-] b) Pomiary pasywnego promieniowania mikrofalowego emitowanego przez Ziemię
+* [+] c) Różnicę fazy fali odbitej zarejestrowanej przez anteny znajdujące się w różnych punktach
+* [-] d) Wyłącznie widmo z zakresu bliskiej podczerwieni
+
+30. Model SRTM (Shuttle Radar Topography Mission) to popularny globalny numeryczny model terenu. Jaka jest jego przybliżona rozdzielczość przestrzenna na równiku?
+* [+] a) 1 sekunda kątowa (ok. 30 metrów)
+* [-] b) 0.4 sekundy kątowej (ok. 12 metrów)
+* [-] c) 90 metrów
+* [-] d) 1 kilometr
+
+31. Jak często powtarza się orbita satelity ICESat-2, pozwalając na wykonanie pomiaru w pełnej siatce dla całej Ziemi?
+* [+] a) Co 91 dni
+* [-] b) Co 24 godziny
+* [-] c) Co 14 dni
+* [-] d) Co 365 dni
+
+32. Satelita ICESat-2 przemieszcza się po swojej orbicie z bardzo dużą, precyzyjnie kontrolowaną prędkością. Wynosi ona:
+* [-] a) 300 m/s
+* [+] b) 7,3 km/s
+* [-] c) 15 km/s
+* [-] d) 299 792 km/s
+
+33. Trzy lasery instrumentu GEDI umieszczonego na Międzynarodowej Stacji Kosmicznej (ISS) pracują na długości fali:
+* [-] a) 532 nm (widzialna zieleń)
+* [+] b) 1064 nm (bliska podczerwień)
+* [-] c) 5 cm (mikrofale)
+* [-] d) 10 nm (ultrafiolet)
+
+34. Z przebiegów falowych lasera GEDI można wyodrębnić cztery kluczowe rodzaje informacji. Są to:
+* [+] a) Topografia powierzchni, wskaźniki wysokości koron drzew, pokrycia koronami oraz struktury pionowej
+* [-] b) Wilgotność gleby, zasolenie, temperatura Ziemi i szorstkość
+* [-] c) Skład chemiczny liści, wiek lasu, gatunek i gęstość drewna
+* [-] d) Gęstość zaludnienia, uszczelnienie terenu, miejskie wyspy ciepła i albedo
+
+35. W interferometrii radarowej (InSAR), wariant pomiarowy, w którym antena odbierająca odbicie (R) działa dokładnie w tym samym procesie co nadająca antena (T/R), nazywamy:
+* [+] a) Wariantem jednoprzebiegowym (single-pass)
+* [-] b) Wariantem wieloprzebiegowym (multi-pass)
+* [-] c) Radarową altimetrią aktywną
+* [-] d) Wariantem pasywnym L-band
+
+36. Globalny numeryczny model terenu o nazwie WorldDEM (posiadający rozdzielczość przestrzenną ok. 12 m) jest tworzony w oparciu o połączone dane z satelitów:
+* [-] a) Landsat 8 i 9
+* [-] b) Sentinel-1A i Sentinel-1B
+* [+] c) TerraSAR-X oraz TanDEM-X
+* [-] d) ALOS i Envisat
+
+37. Zgodnie z omawianą teorią, źródła błędów Numerycznego Modelu Terenu (NMT) dzieli się na trzy główne grupy. Są to błędy:
+* [+] a) Instrumentalne, środowiskowe i geometryczne
+* [-] b) Systematyczne, grube i przypadkowe
+* [-] c) Ludzkie, sprzętowe i oprogramowania
+* [-] d) Optyczne, radarowe i laserowe
+
+38. Które źródło błędu przy generowaniu NMT jest uważane za będące całkowicie "poza naszą kontrolą", ponieważ zależy ściśle od spadku (nachylenia) badanego terenu?
+* [-] a) Błąd instrumentalny
+* [-] b) Błąd środowiskowy
+* [+] c) Błąd geometryczny
+* [-] d) Błąd kwantyzacji
+
+39. Do typowych błędów instrumentalnych podczas akwizycji i przetwarzania danych na potrzeby NMT zaliczamy m.in.:
+* [+] a) Błędy kwantyzacji rzędnych oraz błędy transformacji z układu lokalnego do docelowego
+* [-] b) Refrakcję fal elektromagnetycznych w ziemskiej atmosferze
+* [-] c) Wpływ szorstkości materiału pokrywającego dany teren
+* [-] d) Zmiany wilgotności atmosfery w czasie trwania pomiaru
+
+40. Dlaczego ocena dokładności Numerycznego Modelu Terenu za pomocą samej "matrycy różnic" (oraz wyciągania z niej średniej) jest uznawana za niewłaściwą i zbyt uproszczoną?
+* [-] a) Ponieważ dane referencyjne są zazwyczaj w innym odwzorowaniu kartograficznym
+* [+] b) Ponieważ błąd modelu nie jest stały i zmienia się drastycznie w zależności od typu terenu (szczególnie w miejscach o dużym spadku)
+* [-] c) Ponieważ matryca różnic podaje wartości w milimetrach, a modele satelitarne w metrach
+* [-] d) Ponieważ ignoruje ona całkowicie obecność zbiorników wodnych
+
+41. Raport jednostki badawczej JRC dotyczący wykorzystania obserwacji Ziemi (EO) w miejskiej adaptacji klimatycznej rekomenduje m.in.:
+* [+] a) Poprawę wykrywania ryzyka, umożliwienie planowania scenariuszy oraz wsparcie sieci wymiany wiedzy
+* [-] b) Całkowitą rezygnację z wykorzystywania satelitów optycznych w badaniach miast
+* [-] c) Budowę oddzielnych, prywatnych konstelacji satelitów dla każdego państwa Unii Europejskiej
+* [-] d) Ograniczenie dostępu do danych termalnych tylko dla certyfikowanych służb państwowych
+
+42. Z jakiej średniej wysokości instrument GEDI prowadzi swoje skanowanie i ile czasu zajmuje mu jedno pełne okrążenie Ziemi (jako element stacji ISS)?
+* [-] a) Wysokość 800 km, czas 12 godzin
+* [+] b) Wysokość 407 km, czas 93 minut
+* [-] c) Wysokość 36 000 km, czas 24 godziny
+* [-] d) Wysokość 150 km, czas 45 minut
+
+43. Kriosfera, będąca jednym z pięciu głównych komponentów systemu klimatu Ziemi, obejmuje:
+* [+] a) Lód morski, pokrywy lodowe (lędolody), lodowce oraz wieczną zmarzlinę
+* [-] b) Wyłącznie wodę w stanie ciekłym w oceanach światowych
+* [-] c) Procesy powstawania chmur i opadów w atmosferze
+* [-] d) Przestrzeń kosmiczną, w której operują sztuczne satelity obserwacyjne
+
+44. Ogromne ilości danych zbierane przez ICESat-2 (ok. 580 GB dziennie) są przesyłane na Ziemię łączem o przepustowości 220 Mbps w paśmie X. Gdzie znajdują się główne stacje naziemne je odbierające?
+* [+] a) Na archipelagu Svalbard oraz na wyspie Wallops (Wirginia)
+* [-] b) W centrum lotów w Houston i na przylądku Canaveral
+* [-] c) W Gujanie Francuskiej oraz na stacji we Włoszech
+* [-] d) Na Antarktydzie (stacja polarna McMurdo)
+
+45. W ramach europejskiego programu obserwacji Ziemi Copernicus, który satelita odpowiada w głównej mierze za monitorowanie atmosfery (w tym śledzenie gazów i jakości powietrza)?
+* [-] a) Sentinel-1
+* [-] b) Sentinel-2
+* [+] c) Sentinel-5P (oraz Sentinel-4)
+* [-] d) Sentinel-6
+
+46. Kluczowa technologia zainstalowana na pokładzie satelity SWOT, pozwalająca na rejestrowanie wysokości powierzchni oceanu z precyzją rzędu centymetrów, to:
+* [+] a) KaRin (Ka-band Radar Interferometer)
+* [-] b) ATLAS (Advanced Topographic Laser Altimeter System)
+* [-] c) HOMER (High Output Maximum Efficiency Resonator)
+* [-] d) Optyczny sensor wielospektralny MSI
+
+47. W sytuacji, gdy rozmiar cząsteczki w atmosferze jest znacznie większy od długości padającej fali elektromagnetycznej (k >> 1), zachodzi:
+* [+] a) Rozpraszanie zależne od właściwości powierzchni (odbicie lustrzane lub odbicie Lamberta)
+* [-] b) Wyłącznie rozpraszanie typu Rayleigh
+* [-] c) Rozpraszanie typu Mie
+* [-] d) Zjawisko całkowitej absorpcji fali
+
+48. Odbicie typu Lamberta (powierzchnia lambertowska) charakteryzuje się tym, że:
+* [+] a) Promieniowanie jest rozpraszane równomiernie (dyfuzyjnie) we wszystkich kierunkach (typowe dla powierzchni szorstkich)
+* [-] b) Kąt padania promieni jest dokładnie równy kątowi ich odbicia (jak w lustrze)
+* [-] c) Fala przenika przez powierzchnię bez żadnej utraty energii
+* [-] d) Występuje tylko i wyłącznie w próżni kosmicznej
+
+49. Fundamentalne dla fizyki teledetekcji równanie I = A + T + R oznacza, że energia padająca (I) to suma:
+* [+] a) Absorpcji, Transmisji (przepuszczania) i Refleksji (odbicia)
+* [-] b) Amplitudy, Temperatury i Rozproszenia
+* [-] c) Azymutu, Transformacji i Radiacji
+* [-] d) Akceleracji, Trajektorii i Ruchu
+
+50. Wzór skanowania instrumentu ATLAS na satelicie ICESat-2 tworzy sześć wiązek ułożonych w trzy pary. W jakiej odległości (w poprzek torów) rozmieszczone są te pary wiązek względem siebie?
+* [+] a) Około 3,3 km
+* [-] b) Około 90 m
+* [-] c) Około 600 m
+* [-] d) Około 13 m
+
+51. Pary wiązek lasera w ICESat-2 składają się z wiązki "silnej" i "słabej" w celu rekompensowania zmiennego odbicia powierzchni. Jaki jest stosunek ich energii?
+* [+] a) Około 4:1 (lub 1:4)
+* [-] b) Są sobie idealnie równe (1:1)
+* [-] c) Około 100:1
+* [-] d) Około 10:1
+
+52. Metoda analityczna używana często w analizie długoterminowych szeregów czasowych danych satelitarnych to BFAST. Skrót ten oznacza:
+* [+] a) Breaks For Additive Season and Trend
+* [-] b) Baseline Forward Algorithm for Spatial Trends
+* [-] c) Basic Forest Analysis by Satellite Telemetry
+* [-] d) Broadband Frequency And Spectral Tracking
+
+53. Jaka jest rozdzielczość przestrzenna powszechnie znanego globalnego modelu wysokościowego ALOS World3D?
+* [+] a) 30 m
+* [-] b) 90 m
+* [-] c) 12 m
+* [-] d) 1 m
+
+54. Globalny model terenu TanDEM-X (w wersji podstawowej wymienionej w prezentacji obok ALOS i SRTM) charakteryzuje się rozdzielczością przestrzenną rzędu:
+* [+] a) 90 m
+* [-] b) 30 m
+* [-] c) 12 m
+* [-] d) 1 m
+
+55. Która kombinacja nowych technologii jest wskazywana jako "przyszłość monitoringu globalnego", pozwalająca na tworzenie tzw. Cyfrowych Bliźniaków Ziemi (Digital Twin Earth)?
+* [+] a) Sztuczna inteligencja (AI), Internet Rzeczy (IoT) oraz Obserwacje Ziemi (EO)
+* [-] b) Wyłącznie balony stratosferyczne i analogowa fotografia lotnicza
+* [-] c) Gęsta sieć sonarów akustycznych na dnie oceanów
+* [-] d) Ręczna wektoryzacja zdjęć z archiwów wojskowych
+
+56. Aby optymalnie badać zjawisko tzw. Miejskiej Wyspy Ciepła (Urban Heat Island) za pomocą teledetekcji, analityk powinien wyznaczyć wskaźnik:
+* [+] a) LST (Land Surface Temperature)
+* [-] b) NDBI (Normalized Difference Built-up Index)
+* [-] c) SPI (Standardized Precipitation Index)
+* [-] d) NDVI (Normalized Difference Vegetation Index)
+
+57. Według koncepcji Earth Observation Value Chain, aby właściwie ocenić ostateczne RYZYKO (Risk) za pomocą danych EO, należy zsyntetyzować trzy główne wskaźniki. Są to:
+* [+] a) Zagrożenie (Hazard), Narażenie (Exposure) oraz Podatność (Vulnerability)
+* [-] b) Opady, Zmiany temperatury i Gęstość zaludnienia
+* [-] c) Koszt misji, Błąd pomiarowy i Czas trwania
+* [-] d) Szorstkość powierzchni, Spadek terenu i Błąd kwantyzacji
+
+58. Który z poniższych wskaźników lub algorytmów NIE należy do grupy modeli Uczenia Maszynowego (Machine Learning) wykorzystywanych w teledetekcji środowiska?
+* [+] a) NDVI (Normalized Difference Vegetation Index)
+* [-] b) Random Forest (Lasy Losowe)
+* [-] c) SVM (Support Vector Machine)
+* [-] d) CNN (Konwolucyjne Sieci Neuronowe)
+
+59. Wykorzystanie bardzo wysokorozdzielczych danych teledetekcyjnych wiąże się z problemami etycznymi, zwłaszcza z możliwością naruszenia ochrony danych osobowych. Główne metody łagodzenia tego ryzyka to m.in.:
+* [+] a) Stosowanie ograniczeń rozdzielczości, anonimizacja lub agregacja informacji przestrzennej
+* [-] b) Udostępnianie wszystkich danych wyłącznie wojsku i rządom
+* [-] c) Modyfikowanie kolorów obrazu, aby przypominały barwy nienaturalne
+* [-] d) Rejestrowanie obrazu wyłącznie nocą za pomocą radarów SAR
+
+60. Ponieważ satelita SWOT nie jest w stanie "widzieć" fizycznie pod wodą, naukowcy tworzą szczegółowe mapy dna oceanicznego poprzez:
+* [+] a) Rejestrowanie subtelnych wzniesień i zagłębień powierzchni wody (rzędu centymetrów), które są wynikiem grawitacyjnego oddziaływania gór podwodnych i rowów
+* [-] b) Wystrzeliwanie wiązek lasera niebieskiego, który potrafi przenikać wodę do 4 kilometrów w głąb
+* [-] c) Mierzenie temperatury powierzchni morza, która jest zawsze dokładnie o 1 stopień wyższa nad górami podmorskimi
+* [-] d) Obserwację nagromadzenia chmur nad strukturami wulkanicznymi na dnie oceanu
+
+61. Ile impulsów na sekundę (tzw. częstotliwość repetycji - PRF) emituje laser ATLAS na satelicie ICESat-2?
+* [+] a) 10 000 impulsów (10 kHz)
+* [-] b) 1 000 impulsów (1 kHz)
+* [-] c) 50 000 impulsów (50 kHz)
+* [-] d) 60 impulsów (60 Hz)
+
+62. Z jak wielką dokładnością (rozdzielczością pomiaru odległości) NASA reklamowała system ICESat-2 (porównując ją obrazowo do grubości ołówka)?
+* [+] a) Z dokładnością do 4 mm
+* [-] b) Z dokładnością do 4 cm
+* [-] c) Z dokładnością do 70 cm
+* [-] d) Z dokładnością do 1 m
+
+63. Do odbioru powracających z Ziemi słabych sygnałów laserowych, w instrumencie GEDI zainstalowanym na stacji ISS, wykorzystuje się:
+* [+] a) Teleskop o średnicy 80 cm
+* [-] b) Antenę paraboliczną o średnicy 5 metrów
+* [-] c) Matrycę CCD o średnicy 10 cm
+* [-] d) System radarowy o szerokości pokosu 250 km
+
+64. Zniekształcenia Numerycznego Modelu Terenu (NMT) spowodowane tym, że podczas zapisu pliku rzędne wysokości zostały sztucznie zaokrąglone do pełnych metrów (jak miało to miejsce w pierwszej wersji SRTM), to:
+* [+] a) Błąd instrumentalny (konkretnie błąd kwantyzacji)
+* [-] b) Błąd środowiskowy
+* [-] c) Błąd geometryczny (zależny od spadku terenu)
+* [-] d) Błąd refrakcji (ugięcie fali w atmosferze)
+
+65. Ze wzoru na tzw. wariancję błędu geometrycznego NMT wynika bezpośrednio, że błąd ten gwałtownie rośnie wraz ze:
+* [+] a) Zwiększaniem się rozmiaru piksela obrazu oraz większym nachyleniem (spadkiem) terenu
+* [-] b) Zmniejszaniem się wielkości piksela i spadkiem wilgotności powietrza
+* [-] c) Czasem przebywania satelity w próżni kosmicznej
+* [-] d) Wzrostem temperatury powierzchni Ziemi mierzonej wskaźnikiem LST
+
+66. Według struktury programu Copernicus, satelita oznaczony jako Sentinel-6 dedykowany jest w głównej mierze do monitorowania:
+* [+] a) Zmian poziomu mórz i oceanów oraz zjawisk związanych z globalnym ociepleniem
+* [-] b) Pokrywy leśnej w strefie równikowej
+* [-] c) Wyłącznie infrastruktury miejskiej
+* [-] d) Jakości powietrza i aerozoli
+
+67. Każdy pojedynczy impuls lasera wystrzelony z pokładu ICESat-2 składa się z bilionów fotonów. Ile z nich (średnio) po przejściu przez atmosferę, odbiciu od lodu i powrocie, faktycznie trafia do teleskopu satelity?
+* [+] a) Zaledwie kilkadziesiąt
+* [-] b) Ponad miliard
+* [-] c) Dokładnie jeden na każdy strzał
+* [-] d) Sto tysięcy
+
+68. Przy analizie obszarów miejskich używa się indeksu NDBI (Znormalizowany wskaźnik różnicy zabudowy). Co w tym indeksie z reguły oznaczają wartości ujemne?
+* [+] a) Roślinność lub zbiorniki wodne
+* [-] b) Powierzchnie uszczelnione, asfalt i dachy budynków
+* [-] c) Miejsca o podwyższonej temperaturze (miejskie wyspy ciepła)
+* [-] d) Tereny zanieczyszczone metalami ciężkimi
+
+69. Technika InSAR (Interferometria Radaru Wysokiej Rozdzielczości) wykorzystująca mikrofale zrewolucjonizowała nauki o Ziemi, ponieważ potrafi wykrywać przemieszczenia pionowe i deformacje terenu z dokładnością rzędu:
+* [+] a) Kilku milimetrów lub centymetrów
+* [-] b) Dokładnie 30 metrów (bo taki jest rozmiar piksela)
+* [-] c) Powyżej 5 metrów
+* [-] d) Wielkości sub-nanometrowej
+
+70. Aby satelita ICESat-2 zebrał zadowalające i powtarzalne dane dla klimatycznego monitoringu całej Ziemi (wystarczająco gęsta siatka laserowa), jego orbita domyka się i powtarza dokładnie:
+* [+] a) Co 91 dni (ok. 3 miesiące), co pozwala śledzić zmiany w każdej porze roku
+* [-] b) Co 14 dni
+* [-] c) Raz na 24 godziny
+* [-] d) Raz w roku (co 365 dni)
+
+71. Ponieważ stacja ISS orbituje stale po swojej trajektorii, aby precyzyjnie nakierować laser GEDI na interesujący obszar lasu, cały system posiada zdolność:
+* [+] a) Obracania się o ±5,6 stopnia względem ISS
+* [-] b) Swobodnego odłączania się od stacji i samodzielnego lotu na silnikach korekcyjnych
+* [-] c) Zatrzymania ISS w miejscu na czas skanowania
+* [-] d) Poszerzenia plamki lasera do średnicy ponad 5 km
+
+72. W etyce obserwacji Ziemi wskazuje się, że bardzo precyzyjne zdjęcia wykorzystywane do lokalizowania nowych złóż naturalnych na terenach zamieszkiwanych przez ludność rdzenną mogą być problematyczne, ponieważ:
+* [+] a) Ułatwiają potężnym podmiotom planowanie eksploatacji bez informowania czy konsultowania się z lokalną społecznością (rodząc konflikty)
+* [-] b) Ciągłe oświetlanie terenów laserem niszczy lokalne uprawy
+* [-] c) Systemy satelitarne zakłócają naziemne nadajniki telewizyjne
+* [-] d) Zmiany te powodują natychmiastowe obniżenie temperatury LST w regionie
+
+73. Do analiz gazów śladowych, jakości powietrza i aerozoli w europejskim programie obserwacyjnym dedykowana jest rodzina aparatów:
+* [+] a) Sentinel-4 (oraz Sentinel-5P)
+* [-] b) Sentinel-1
+* [-] c) Sentinel-2
+* [-] d) Sentinel-3
+
+74. Jaka jest całkowita (sumaryczna) nominalna moc wyjściowa wiązki emitowanej przez aktywne lasery w układzie GEDI?
+* [+] a) Od 10 do 17 mJ (milidżuli)
+* [-] b) Od 1 do 2 GW (gigawatów)
+* [-] c) Równo 400 W (watów)
+* [-] d) Stałe 10 kW (kilowatów)
+
+75. Jak udowodniła badawcza analiza dokładności NMT dla modeli ASTER-2 i SRTM w okolicach Wrocławia, dlaczego podawanie jednego globalnego wskaźnika błędu "Mean Difference" jest w teledetekcji uważane za złe?
+* [+] a) Ponieważ błąd nie jest jednorodny – uśrednienie całkowicie ukrywa drastyczną, przestrzenną zmienność błędu modelu (wynikającą np. z nachylenia stoku w górach)
+* [-] b) Ponieważ modele ASTER zawsze mają błąd większy niż 100 metrów
+* [-] c) Ponieważ jedynym poprawnym i legalnym wskaźnikiem jest mediana
+* [-] d) Ponieważ matryce różnic przeliczane są w stopnia Fahrenheita
+
+76. Kiedy cząsteczki w atmosferze (np. krople wody) są znacznie większe od długości fali promieniowania, zachodzi zjawisko odpowiedzialne m.in. za biały kolor chmur. Nazywa się ono:
+* [+] a) Rozpraszaniem nieselektywnym
+* [-] b) Rozpraszaniem Rayleigha
+* [-] c) Odbiciem Lamberta
+* [-] d) Zjawiskiem Dopplera
+
+77. Czym charakteryzują się teledetekcyjne systemy pasywne (takie jak np. optyczny instrument na pokładzie Sentinel-2)?
+* [+] a) Rejestrują naturalne promieniowanie (np. odbite światło słoneczne lub emisję cieplną) i nie posiadają własnego aktywnego nadajnika.
+* [-] b) Zawsze emitują własną wiązkę promieniowania w kierunku Ziemi (jak laser czy radar).
+* [-] c) Rejestrują obraz całkowicie niezależnie od zachmurzenia i pory dnia.
+* [-] d) Wykorzystują sygnały dźwiękowe (sonar) do mapowania powierzchni pod wodą.
+
+78. W kontekście cech obrazu satelitarnego, co oznacza termin "rozdzielczość radiometryczna" zapisana np. jako 8-bitowa?
+* [+] a) Oznacza to, że każdy piksel na obrazie może przyjąć jedną z 256 wartości jasności (od 0 do 255) w danym kanale.
+* [-] b) Oznacza to, że piksel reprezentuje w terenie obszar o dokładnych wymiarach 8 na 8 metrów.
+* [-] c) Oznacza to, że satelita przesyła dane na Ziemię z prędkością zaledwie 8 bitów na sekundę.
+* [-] d) Oznacza to, że sensor obserwuje powierzchnię Ziemi tylko w 8 wąskich pasmach widma.
+
+79. Modele wysokościowe dzieli się najczęściej na Numeryczny Model Pokrycia Terenu (DSM) oraz Numeryczny Model Terenu (DTM). Czym charakteryzuje się model DTM (z ang. Digital Terrain Model)?
+* [+] a) Przedstawia "gołą" ziemię, po odfiltrowaniu z niej szumu i obiektów takich jak budynki, drzewa i infrastruktura.
+* [-] b) Uwzględnia najwyższe punkty wszystkich obiektów znajdujących się na powierzchni Ziemi (w tym korony drzew i dachy).
+* [-] c) Służy wyłącznie do mapowania głębokości i profilu dna zbiorników wodnych (batymetria).
+* [-] d) Może być wygenerowany tylko i wyłącznie ze zdjęć czarno-białych.
+
+80. Zdolność i czas, jakiego potrzebuje satelita do powrotu i sfotografowania dokładnie tego samego miejsca na Ziemi w takich samych warunkach, określa się mianem:
+* [+] a) Rozdzielczości czasowej (czasu rewizyty)
+* [-] b) Rozdzielczości spektralnej
+* [-] c) Rozdzielczości przestrzennej
+* [-] d) Rozdzielczości radiometrycznej
+
+81. Dla jakich zastosowań powszechnie oblicza się indeks NDWI (Normalized Difference Water Index)?
+* [+] a) Do wyodrębniania powierzchni wodnych, monitorowania zasięgu rzek, jezior oraz oceny zawartości wody we florze.
+* [-] b) Do szacowania poziomu zanieczyszczenia powietrza tlenkami azotu i siarki nad miastami.
+* [-] c) Do oceny zagęszczenia zabudowy miejskiej na osiedlach.
+* [-] d) Do wyznaczania grubości warstwy ozonowej w stratosferze nad biegunami.
+
+82. Program Copernicus (wcześniej znany pod nazwą GMES) to największa na świecie inicjatywa ciągłej obserwacji Ziemi, której fundatorem i głównym kierownikiem jest:
+* [+] a) Unia Europejska w ścisłym partnerstwie z Europejską Agencją Kosmiczną (ESA)
+* [-] b) Amerykańska Agencja Kosmiczna (NASA) wspierana przez Departament Obrony USA
+* [-] c) Prywatne konsorcjum potężnych firm z Doliny Krzemowej
+* [-] d) Chińska Narodowa Agencja Kosmiczna (CNSA) we współpracy z rządem Japonii
+
+83. W jakim głównym celu przeprowadza się tzw. "korekcję atmosferyczną" na optycznych zdjęciach satelitarnych przed ich naukową analizą?
+* [+] a) Aby usunąć błędy wywołane rozpraszaniem i pochłanianiem światła w atmosferze, uzyskując czyste odbicie (reflektancję BOA) samej powierzchni Ziemi.
+* [-] b) Aby wygenerować na zdjęciu sztuczne chmury, które pozwolą zanonimizować tajne obszary wojskowe przed udostępnieniem danych publicznie.
+* [-] c) Aby przeliczyć współrzędne pikseli z układu WGS84 na płaski układ lokalny.
+* [-] d) Aby skompresować plik w formacie HDF do mniejszego rozmiaru kosztem ostrości.
+
+84. Często spotykany termin "polaryzacja" w teledetekcji mikrofalowej (radarowej SAR) odnosi się do:
+* [+] a) Orientacji przestrzennej wektora pola elektrycznego wysyłanej i odbieranej fali elektromagnetycznej (np. HH, VV, HV, VH).
+* [-] b) Stopnia zakrzywienia paneli słonecznych satelity w stronę biegunów.
+* [-] c) Zdolności radaru do mapowania grubości pokrywy lodowej wyłącznie na obszarach polarnych.
+* [-] d) Zjawiska zmiany koloru pikseli na zdjęciu pod wpływem temperatury matrycy.
+
+85. W paśmie termalnej podczerwieni (TIR) sensory mierzą m.in. emisję cieplną Ziemi. Co jest ogromną zaletą użycia tego pasma (np. w przypadku satelitów Landsat)?
+* [+] a) Możliwość rejestracji danych (np. temperatury wysp ciepła czy pożarów) zarówno w dzień, jak i w nocy, niezależnie od oświetlenia słonecznego.
+* [-] b) Promieniowanie z pasma TIR bez absolutnie żadnych strat przenika przez najgęstsze burzowe chmury i mgłę.
+* [-] c) Sensory termalne zawsze generują obrazy o gigantycznej rozdzielczości przestrzennej (piksel wielkości rzędu 1 centymetra).
+* [-] d) Fale termalne pozwalają fizycznie zajrzeć pod ziemię na głębokość do 50 metrów i skanować sieci wodociągowe.
+
+86. Rozwój teledetekcji radarowej zawdzięcza ogromny skok jakościowy tzw. Efektowi Dopplera. W systemach SAR (Synthetic Aperture Radar) jego analiza służy do:
+* [+] a) Cyfrowego symulowania wirtualnie bardzo długiej anteny za pomocą matematycznej syntezy przesunięć echa wzdłuż toru lotu satelity (co drastycznie zwiększa ostrość obrazu radarowego).
+* [-] b) Pomiaru składu chemicznego smogu w niższych warstwach atmosfery dzięki zjawisku dyfrakcji.
+* [-] c) Optycznego rozjaśniania zdjęć wykonanych podczas nocnej fazy orbity.
+* [-] d) Korygowania błędu geometrycznego wywołanego naturalnym zakrzywieniem powierzchni Ziemi.
+
+87. Czym w świecie analiz satelitarnych jest darmowe oprogramowanie o nazwie SNAP (Sentinel Application Platform)?
+* [+] a) Oficjalnym środowiskiem (Open Source) opracowanym przez agencję ESA specjalnie do przeglądania, eksploracji i przetwarzania rozległych danych z misji Copernicus.
+* [-] b) Zamkniętym, drogim i licencjonowanym modułem programu ArcGIS dedykowanym tylko dla rządu.
+* [-] c) Systemem operacyjnym rezydującym na głównym komputerze satelity Sentinel-2 w kosmosie.
+* [-] d) Zwykłą tekstową bazą danych przechowującą metadane z amerykańskiej misji SRTM.
+
+88. Jednym z kluczowych pojęć fizycznych w teledetekcji jest tzw. "sygnatura spektralna" (albo krzywa odbicia spektralnego) badanej substancji. Czym ona jest?
+* [+] a) Wykresem krzywej pokazującym jednoznacznie, jaki procent padającego na dany obiekt światła jest od niego odbijany na poszczególnych długościach fali spektrum.
+* [-] b) Śladem radiowym emitowanym przez duże obiekty przemysłowe, możliwym do namierzenia przez skanery wojskowe.
+* [-] c) Historią całkowitych zmian temperatury danej powierzchni lądu na przestrzeni ostatnich 12 miesięcy.
+* [-] d) Specjalnym certyfikatem autentyczności dołączanym jako metadana do darmowych plików w formacie TIFF.
+
+89. Błędy "grube" (grube pomyłki) w generowanych Numerycznych Modelach Terenu powstają najczęściej w wyniku:
+* [+] a) Czasowej awarii sprzętu, całkowitej utraty części sygnału w transmisji lub istotnej omyłki ludzkiej przy wprowadzaniu stałych w algorytmie.
+* [-] b) Naturalnego ugięcia światła lasera w idealnie czystej, bezchmurnej atmosferze na równiku.
+* [-] c) Subtelnej różnicy między zastosowaniem wysokości elipsoidalnej a ortometrycznej w oprogramowaniu.
+* [-] d) Skalowania pikseli w modelu do zbyt wysokiej precyzji zmiennoprzecinkowej.
+
+90. Monitorowanie rozległych i odległych morskich szlaków transportowych na oceanach (np. namierzanie nielegalnych poławiaczy ryb wyłączających systemy nawigacyjne) jest optymalnie realizowane z kosmosu przy użyciu satelitów takich jak:
+* [+] a) Sentinel-1 (radar SAR), ponieważ dostarcza wiarygodne obrazy niezależnie od warunków pogodowych, cyklu dnia i nocy oraz gęstego morskiego zachmurzenia.
+* [-] b) ICESat-2, ponieważ dysponuje on laserami pozwalającymi zidentyfikować numery na burcie statku z dokładnością 4 mm.
+* [-] c) GEDI, ze względu na stałą obecność amerykańskich astronautów w laboratoriach na Stacji Kosmicznej.
+* [-] d) Landsat 9, ponieważ kolorowe zdjęcia z aparatów optycznych są jedynym dowodem uznawanym na gruncie prawa międzynarodowego.
+
+91. Koncepcja "Earth Observation Value Chain" (Łańcuch Wartości Obserwacji Ziemi) ilustruje, w jaki sposób dane z satelitów są syntetyzowane w użyteczne informacje przy użyciu jakich konkretnie ram?
+* [+] a) Ram zagrożenia, podatności i narażenia (Hazard, Vulnerability, Exposure)
+* [-] b) Ram popytu, podaży i dystrybucji
+* [-] c) Ram pozyskiwania, przetwarzania i archiwizacji
+* [-] d) Ram analizy widmowej, przestrzennej i czasowej
+
+92. Jakie zjawisko klimatyczne, szczególnie dotkliwe w Europie w 2024 roku, zostało szczegółowo udokumentowane przez program Copernicus jako wykazujące "znaczne anomalie i wysokie narażenie"?
+* [+] a) Stres cieplny (ekstremalne fale upałów)
+* [-] b) Gwałtowne opady śniegu w lipcu
+* [-] c) Trzęsienia ziemi na Półwyspie Iberyjskim
+* [-] d) Opad pyłu wulkanicznego z Islandii
+
+93. Głównym celem rekomendacji przedstawionych w raporcie jednostki JRC dla miast europejskich jest:
+* [+] a) Wzmocnienie roli obserwacji Ziemi (EO) w procesie lokalnej adaptacji do zmian klimatu
+* [-] b) Zastąpienie wszystkich tradycyjnych stacji meteorologicznych modelami satelitarnymi
+* [-] c) Całkowite zablokowanie dostępu do danych o wysokiej rozdzielczości dla deweloperów budowlanych
+* [-] d) Nałożenie specjalnych podatków węglowych na emisje gazów cieplarnianych przez prywatne satelity
+
+94. W projektowaniu misji satelitarnych często występuje tzw. "trade-off" (kompromis techniczny). Jeśli satelita obserwacyjny ma bardzo wysoką rozdzielczość przestrzenną (np. rzędu centymetrów), to zazwyczaj:
+* [+] a) Posiada znacznie węższy pas skanowania (swath) i dłuższy czas rewizyty (mniejsza rozdzielczość czasowa)
+* [-] b) Posiada bardzo szeroki pas skanowania i przelatuje nad tym samym miejscem dokładnie co 2 godziny
+* [-] c) Zawsze musi rejestrować dane w setkach wąskich kanałów spektralnych (skaner hiperspektralny)
+* [-] d) Staje się w 100% niewrażliwy na gęste zachmurzenie i mgłę
+
+95. Termin "Albedo", niezwykle istotny w teledetekcji (szczególnie w badaniach kriosfery, lodu i miejskich wysp ciepła), oznacza fizycznie:
+* [+] a) Stosunek ilości promieniowania odbitego od danej powierzchni do ilości promieniowania na nią padającego
+* [-] b) Zdolność gruntu do pochłaniania i zatrzymywania wody deszczowej
+* [-] c) Różnicę fazy fali elektromagnetycznej pomiędzy dwiema antenami w systemach radarowych
+* [-] d) Rozmiar pojedynczego, najmniejszego piksela na zarejestrowanym zdjęciu termalnym
+
+96. Który z poniższych systemów teledetekcyjnych należy sklasyfikować jako system PASYWNY?
+* [+] a) Skaner wielospektralny rejestrujący naturalne, odbite światło słoneczne (np. w satelicie Sentinel-2 lub Landsat)
+* [-] b) Radar o syntetycznej aperturze (SAR) zainstalowany na satelicie Sentinel-1
+* [-] c) Wysokościomierz laserowy ATLAS zainstalowany na satelicie ICESat-2
+* [-] d) Instrument pomiarowy LIDAR GEDI funkcjonujący na Międzynarodowej Stacji Kosmicznej (ISS)
+
+97. Satelity obserwacyjne Ziemi (takie jak Sentinel czy Landsat), które skanują całą kulę ziemską przelatując w pobliżu biegunów z zachowaniem tego samego czasu oświetlenia słonecznego terenu, poruszają się po orbicie:
+* [+] a) Heliosynchronicznej (okołobiegunowej)
+* [-] b) Geostacjonarnej (zawieszonej nad równikiem w jednym punkcie)
+* [-] c) Transferowej Hohmanna
+* [-] d) Niskiej orbicie równikowej (LEO Equatorial)
+
+98. Czym w głównej mierze różni się skaner hiperspektralny od tradycyjnego skanera wielospektralnego (multispektralnego)?
+* [+] a) Rejestruje promieniowanie w kilkudziesięciu lub kilkuset bardzo wąskich, ściśle do siebie przylegających pasmach widma
+* [-] b) Wykonuje użyteczne zdjęcia wyłącznie w nocy, korzystając z pasma dalekiej podczerwieni
+* [-] c) Posiada tylko jedno, bardzo szerokie pasmo (tzw. obraz panchromatyczny o bardzo dużej ostrości)
+* [-] d) Wysyła w kierunku Ziemi własne, bardzo silne promieniowanie laserowe i bada jego powrót
+
+99. Klasyczny Znormalizowany Wskaźnik Wegetacji (NDVI), służący do badania kondycji roślin, oblicza się bazując na kontraście odbicia światła między dwoma konkretnymi zakresami widma elektromagnetycznego. Jakimi?
+* [+] a) Pasmem światła czerwonego (Red) i bliską podczerwienią (NIR - Near Infrared)
+* [-] b) Pasmem światła niebieskiego (Blue) i światła zielonego (Green)
+* [-] c) Promieniowaniem mikrofalowym (z radaru SAR) i podczerwienią termalną (TIR)
+* [-] d) Promieniowaniem ultrafioletowym (UV) i falami radiowymi o niskiej częstotliwości
+
+100. Integracja danych satelitarnych (np. z bezpłatnego programu Copernicus) z klasycznymi danymi in situ (zbieranymi w terenie) w ramach Systemów Informacji Geograficznej (GIS) pozwala na:
+* [+] a) Wszystkie wymienione odpowiedzi są poprawne
+* [-] b) Ciągłą i skuteczną walidację (weryfikację dokładności) modeli teledetekcyjnych
+* [-] c) Podejmowanie znacznie lepszych, opartych na twardych dowodach decyzji planistycznych przez administrację
+* [-] d) Tworzenie bardzo dokładnych, zaawansowanych map ryzyka i podatności (np. powodziowego czy osuwiskowego)
