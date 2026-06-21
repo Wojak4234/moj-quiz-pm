@@ -1,4 +1,4 @@
-import streamlit as st
+nimport streamlit as st
 import json
 import random
 import re
@@ -163,7 +163,29 @@ def flag_question():
 st.title("🎓 PM Quiz - Inteligentne Powtórki")
 
 # Statystyki w pasku bocznym (Sidebar)
+# Statystyki i wybór w pasku bocznym (Sidebar)
 with st.sidebar:
+    st.header("⚙️ Wybierz przedmiot")
+    quiz_choice = st.selectbox("Baza pytań:", ["Zarządzanie Projektami", "Teledetekcja"])
+    
+    # Ustalenie pliku na podstawie wyboru
+    file_to_load = "pytania.txt" if quiz_choice == "Zarządzanie Projektami" else "teledetekcja.txt"
+    
+    # Przeładowanie pytań, jeśli zmieniono przedmiot
+    if 'current_subject' not in st.session_state or st.session_state.current_subject != quiz_choice:
+        st.session_state.current_subject = quiz_choice
+        st.session_state.questions = load_questions(file_to_load)
+        st.session_state.round_active = False # Zatrzymanie rundy przy zmianie przedmiotu
+        
+        # Inicjalizacja postępów dla nowego pliku
+        progress = load_progress()
+        for q in st.session_state.questions:
+            if q['q'] not in progress:
+                progress[q['q']] = {"streak": 0, "mastered": False, "seen": 0, "correct": 0}
+        st.session_state.progress = progress
+        save_progress(progress)
+
+    st.divider()
     st.header("📊 Twoje Statystyki")
     total = len(st.session_state.questions)
     if total > 0:
@@ -172,13 +194,13 @@ with st.sidebar:
         total_seen = sum(st.session_state.progress[q['q']]['seen'] for q in st.session_state.questions)
         total_corr = sum(st.session_state.progress[q['q']]['correct'] for q in st.session_state.questions)
         acc = round((total_corr / total_seen * 100), 1) if total_seen > 0 else 0.0
-
+        
         st.metric("Opanowane (3x z rzędu)", f"{mastered} / {total}")
         st.progress(mastered / total)
         st.metric("Pozostało do nauki", left)
         st.metric("Skuteczność", f"{acc}%")
     else:
-        st.write("Brak załadowanych pytań.")
+        st.write("Brak załadowanych pytań. Sprawdź pliki TXT.")
 
 # Widok główny
 if not st.session_state.round_active:
