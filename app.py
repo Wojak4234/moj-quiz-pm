@@ -142,7 +142,9 @@ def handle_answer(selected_idx):
     else:
         st.session_state.progress[q_text]['streak'] = 0
 
-    save_progress(st.session_state.progress)
+    # Zapisz do osobnego pliku użytkownika
+    progress_file = f"postepy_{st.session_state.current_user.lower()}.json"
+    save_progress(st.session_state.progress, progress_file)
 
 
 def next_question():
@@ -155,38 +157,48 @@ def flag_question():
     q_data = st.session_state.current_round_qs[st.session_state.round_q_idx]
     correct_text = q_data['answers'][q_data['correct']]
     with open("trudne_pytania.txt", "a", encoding="utf-8") as f:
-        f.write(f"{q_data['q']}\nPOPRAWNA ODP: {correct_text}\n\n")
+        # Zapisz kto zgłosił błąd
+        f.write(f"Zgłoszone przez: {st.session_state.current_user}\n{q_data['q']}\nPOPRAWNA ODP: {correct_text}\n\n")
     st.toast('🚩 Oflagowano i zapisano do pliku!')
 
 
 # --- INTERFEJS UŻYTKOWNIKA (UI) ---
+# Ustalono tytuł dynamiczny na podstawie użytkownika
 st.title("🎓 PM Quiz - Inteligentne Powtórki")
 
-# Statystyki w pasku bocznym (Sidebar)
 # Statystyki i wybór w pasku bocznym (Sidebar)
 with st.sidebar:
+    st.header("👤 Wybierz profil")
+    current_user = st.selectbox("Kto się uczy?", ["Wojti", "Zofkiks"])
+
     st.header("⚙️ Wybierz przedmiot")
     quiz_choice = st.selectbox("Baza pytań:", ["Zarządzanie Projektami", "Teledetekcja"])
     
     # Ustalenie pliku na podstawie wyboru
     file_to_load = "pytania.txt" if quiz_choice == "Zarządzanie Projektami" else "teledetekcja.txt"
+    progress_file = f"postepy_{current_user.lower()}.json"
     
-    # Przeładowanie pytań, jeśli zmieniono przedmiot
-    if 'current_subject' not in st.session_state or st.session_state.current_subject != quiz_choice:
-        st.session_state.current_subject = quiz_choice
-        st.session_state.questions = load_questions(file_to_load)
-        st.session_state.round_active = False # Zatrzymanie rundy przy zmianie przedmiotu
+    # Przeładowanie pytań, jeśli zmieniono przedmiot LUB użytkownika
+    if ('current_subject' not in st.session_state or 
+        st.session_state.current_subject != quiz_choice or 
+        'current_user' not in st.session_state or 
+        st.session_state.current_user != current_user):
         
-        # Inicjalizacja postępów dla nowego pliku
-        progress = load_progress()
+        st.session_state.current_subject = quiz_choice
+        st.session_state.current_user = current_user
+        st.session_state.questions = load_questions(file_to_load)
+        st.session_state.round_active = False # Zatrzymanie rundy przy zmianie
+        
+        # Inicjalizacja postępów dla nowego pliku użytkownika
+        progress = load_progress(progress_file)
         for q in st.session_state.questions:
             if q['q'] not in progress:
                 progress[q['q']] = {"streak": 0, "mastered": False, "seen": 0, "correct": 0}
         st.session_state.progress = progress
-        save_progress(progress)
+        save_progress(progress, progress_file)
 
     st.divider()
-    st.header("📊 Twoje Statystyki")
+    st.header(f"📊 Statystyki: {current_user}")
     total = len(st.session_state.questions)
     if total > 0:
         mastered = sum(1 for q in st.session_state.questions if st.session_state.progress[q['q']]['mastered'])
@@ -205,7 +217,7 @@ with st.sidebar:
 # Widok główny
 if not st.session_state.round_active:
     st.write(
-        "Witaj w inteligentnym systemie nauki! Program zapamiętuje Twoje postępy. Pytanie uważa się za opanowane, gdy odpowiesz na nie bezbłędnie 3 razy z rzędu.")
+        f"Witaj **{st.session_state.current_user}** w inteligentnym systemie nauki! Program zapamiętuje Twoje postępy osobno. Pytanie uważa się za opanowane, gdy odpowiesz na nie bezbłędnie 3 razy z rzędu.")
     if st.button("🚀 Rozpocznij rundę (Max 20 pytań)", use_container_width=True):
         start_round()
         st.rerun()
